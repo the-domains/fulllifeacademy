@@ -8,9 +8,9 @@ description: >-
   importância da definição da visão, missão e metas. Mas como conciliar a
   correria do dia-a-dia com uma visão ampla de longo prazo? É possível conjugar
   controle do tempo e criatividade?
-dateModified: '2017-03-07T22:28:53.217Z'
-datePublished: '2017-03-07T22:28:53.471Z'
-title: Produtividade
+dateModified: '2017-03-07T22:30:00.809Z'
+datePublished: '2017-03-07T22:30:01.505Z'
+title: Produtividade Acelerada
 author: []
 publisher: {}
 via: {}
@@ -22,7 +22,7 @@ _type: Blurb
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9d1b17b9-a516-4dfe-8e37-47bab2f27414.jpg)
 
-# Produtividade
+# Produtividade Acelerada
 
 Muitas são as teorias, técnicas e ferramentas que prometem total controle do "tempo". Parte desse arsenal é herança de uma abordagem tradicional oriunda de Era Industrial, onde a produção era medida em tempo. Do outro lado, surgiram visões mais longitudinais para tratar de planejamentos complexos, levantando a importância da definição da visão, missão e metas. Mas como conciliar a correria do dia-a-dia com uma visão ampla de longo prazo? É possível conjugar controle do tempo e criatividade?
 
