@@ -1,9 +1,9 @@
 ---
 inFeed: true
 description: Aprenda a cuidar do corpo da mente e do espírito como um todo.
-dateModified: '2017-03-07T22:14:06.561Z'
-datePublished: '2017-03-07T22:14:07.146Z'
-title: Triade vital
+dateModified: '2017-03-07T22:14:25.657Z'
+datePublished: '2017-03-07T22:14:26.492Z'
+title: Triade Vital
 author: []
 publisher: {}
 via: {}
@@ -15,7 +15,7 @@ _type: Blurb
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/99bfc048-6dbd-4795-b0da-59d789f4b16c.jpg)
 
-# Triade vital
+# Triade Vital
 
 Aprenda a cuidar do corpo da mente e do espírito como um todo.
 
