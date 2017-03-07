@@ -1,0 +1,71 @@
+layout_spectrum: 0.33562853703164675
+typography_spectrum: 0.8179392570988414
+color:
+  brandStrength: 0.8302359492234
+  lightness: 0.7040493717181985
+  saturation: 0.11463748003568242
+  rhythmicContrast: 0.9927599263899397
+  brandColors:
+    - '#FFFFFF'
+    - '#31BBAC'
+    - '#D73226'
+    - '#414242'
+    - '#A6A8AB'
+analytics:
+  twitter: ''
+  google: UA-93195675-1
+  facebook: '381066988943490'
+author:
+  name: Henrique Utsch
+  email: henriqueutsch@gmail.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/0c7a00db-db0b-4da9-81fd-b20320e6fdf2.png
+name: FullLifeAcademy
+url: 'http://www.fulllifeacademy.com.br/'
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+title: Full Life Academy
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/efae450d-c759-4bdb-8774-8a1eeaa8cbf6.png">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/efae450d-c759-4bdb-8774-8a1eeaa8cbf6.png
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: >-
+  A proposta é reunir ferramentas para impulsionar o ser humano a outro patamar.
+  Muito mais elevado e completo. Reunindo as áreas mais procuradas com o
+  propósito de uma vida mais feliz e plena onde todos os cursos se conectam
+  preparando o ser humano para a nova era da humanidade. Uma era com humanos
+  mais conscientes e bem preparados para uma vida com propósito, tecnologia e
+  espiritualidade. Desenvolva todas as suas capacidades como ser humano.
+purpose:
+  - type: external
+    url: 'https://www.facebook.com/FullLifeAcademyCourse/'
+    label: 'https://www.facebook.com/FullLifeAcademyCourse/'
+github: true
+content_rating:
+  adult: false
