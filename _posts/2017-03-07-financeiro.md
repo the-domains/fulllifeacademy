@@ -4,10 +4,10 @@ description: >-
   Modifique suas crenças, liberte-se de seus medos, aprenda estratégias
   avançadas para investir em imóveis, para atuar no mercado de ações e investir
   em empresas. Saiba como e quando investir em renda fica, títulos públicos e
-  previdência privada. Cada aula trata de um assunto fundamental para você saber
+  previdência privada.Cada aula trata de um assunto fundamental para você saber
   qual a melhor decisão tomar para cuidar de seus investimentos.
-dateModified: '2017-03-07T21:54:06.816Z'
-datePublished: '2017-03-07T21:54:07.574Z'
+dateModified: '2017-03-07T22:28:53.217Z'
+datePublished: '2017-03-07T22:28:53.471Z'
 title: Independencia Financeira
 author: []
 publisher: {}
