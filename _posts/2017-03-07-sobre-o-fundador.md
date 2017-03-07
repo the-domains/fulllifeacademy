@@ -4,16 +4,18 @@ description: >-
   Com a compreensão de meu ego e quem sou e a relação dele com minha vida e
   minhas ações busco estar presente em todos os momentos, aprendendo a melhor
   forma de viver em todas as formas e contextos.
-dateModified: '2017-03-07T19:16:54.899Z'
-datePublished: '2017-03-07T19:16:55.045Z'
+dateModified: '2017-03-07T19:21:06.020Z'
+datePublished: '2017-03-07T19:21:07.265Z'
 title: Sobre o fundador
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2017-03-07-sobre-o-fundador.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-03-07T19:13:19.250Z'
-_type: Blurb
+url: sobre-o-fundador/index.html
+_type: Article
 
 ---
 # Sobre o fundador
