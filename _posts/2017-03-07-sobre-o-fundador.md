@@ -4,8 +4,8 @@ description: >-
   Com a compreensão de meu ego e quem sou e a relação dele com minha vida e
   minhas ações busco estar presente em todos os momentos, aprendendo a melhor
   forma de viver em todas as formas e contextos.
-dateModified: '2017-03-07T19:16:41.253Z'
-datePublished: '2017-03-07T19:16:41.780Z'
+dateModified: '2017-03-07T19:16:54.899Z'
+datePublished: '2017-03-07T19:16:55.045Z'
 title: Sobre o fundador
 author: []
 publisher: {}
