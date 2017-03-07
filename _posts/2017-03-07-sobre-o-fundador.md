@@ -1,9 +1,12 @@
 ---
 inFeed: true
-description: Sobre o fundador
-dateModified: '2017-03-07T19:16:30.341Z'
-datePublished: '2017-03-07T19:16:30.937Z'
-title: ''
+description: >-
+  Com a compreensão de meu ego e quem sou e a relação dele com minha vida e
+  minhas ações busco estar presente em todos os momentos, aprendendo a melhor
+  forma de viver em todas as formas e contextos.
+dateModified: '2017-03-07T19:16:41.253Z'
+datePublished: '2017-03-07T19:16:41.780Z'
+title: Sobre o fundador
 author: []
 publisher: {}
 via: {}
@@ -13,7 +16,7 @@ datePublishedOriginal: '2017-03-07T19:13:19.250Z'
 _type: Blurb
 
 ---
-Sobre o fundador
+# Sobre o fundador
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/29b4fdfd-5ec2-443f-8d22-f43b3d94083b.png)
 
 Com a compreensão de meu ego e quem sou e a relação dele com minha vida e minhas ações busco estar presente em todos os momentos, aprendendo a melhor forma de viver em todas as formas e contextos.
