@@ -8,8 +8,8 @@ description: >-
   importância da definição da visão, missão e metas. Mas como conciliar a
   correria do dia-a-dia com uma visão ampla de longo prazo? É possível conjugar
   controle do tempo e criatividade?
-dateModified: '2017-03-07T22:30:00.809Z'
-datePublished: '2017-03-07T22:30:01.505Z'
+dateModified: '2017-03-07T22:30:02.195Z'
+datePublished: '2017-03-07T22:30:02.716Z'
 title: Produtividade Acelerada
 author: []
 publisher: {}
