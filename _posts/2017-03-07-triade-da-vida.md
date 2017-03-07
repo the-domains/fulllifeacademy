@@ -1,20 +1,22 @@
 ---
 inFeed: true
 description: Aprenda a cuidar do corpo da mente e do espírito como um todo.
-dateModified: '2017-03-07T22:37:48.937Z'
-datePublished: '2017-03-07T22:37:49.689Z'
+dateModified: '2017-03-07T22:38:39.661Z'
+datePublished: '2017-03-07T22:38:43.228Z'
 title: Triade Vital
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2017-03-07-triade-da-vida.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-03-07T22:04:36.079Z'
-hasPage: true
 url: triade-vital/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/db86c9f1-3d75-406d-9109-996d3b5d2692.jpg)
+
 # Triade Vital
 
 Aprenda a cuidar do corpo da mente e do espírito como um todo.
@@ -64,4 +66,7 @@ Espirito
 - Kundaliní e espirito
 
 - Religiões e base de crenças
+
+---
+
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cc40727d-07f3-4fe9-9e42-231588da4e4e.jpg)
