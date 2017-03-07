@@ -1,9 +1,14 @@
 ---
 inFeed: true
-description: "Modifique suas crenças, liberte-se de seus medos, aprenda estratégias avançadas para investir em imóveis, para atuar no mercado de ações e investir em empresas. Saiba como e quando investir em renda fica, títulos públicos e previdência privada.Cada aula trata de um assunto fundamental para você saber qual a melhor decisão tomar para cuidar de seus investimentos.\_"
-dateModified: '2017-03-07T19:16:54.899Z'
-datePublished: '2017-03-07T19:16:55.045Z'
-title: Financeiro
+description: >-
+  Modifique suas crenças, liberte-se de seus medos, aprenda estratégias
+  avançadas para investir em imóveis, para atuar no mercado de ações e investir
+  em empresas. Saiba como e quando investir em renda fica, títulos públicos e
+  previdência privada. Cada aula trata de um assunto fundamental para você saber
+  qual a melhor decisão tomar para cuidar de seus investimentos.
+dateModified: '2017-03-07T21:54:06.816Z'
+datePublished: '2017-03-07T21:54:07.574Z'
+title: Independencia Financeira
 author: []
 publisher: {}
 via: {}
@@ -17,10 +22,10 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bcf8569f-999f-41f5-aa5f-26a7741a838c.jpg)
 
-# Financeiro
+# Independencia Financeira
 
 Modifique suas crenças, liberte-se de seus medos, aprenda estratégias avançadas para investir em imóveis, para atuar no mercado de ações e investir em empresas. Saiba como e quando investir em renda fica, títulos públicos e previdência privada.  
-Cada aula trata de um assunto fundamental para você saber qual a melhor decisão tomar para cuidar de seus investimentos. 
+Cada aula trata de um assunto fundamental para você saber qual a melhor decisão tomar para cuidar de seus investimentos.
 
 - Como adquirir independencia financeira
 
