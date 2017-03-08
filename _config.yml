@@ -1,5 +1,6 @@
-layout_spectrum: 0.35073971123766556
 typography_spectrum: 0.05931083128354189
+content_rating:
+  adult: false
 color:
   brandStrength: 0.8314487734608499
   lightness: 0.7031569913735078
@@ -11,9 +12,8 @@ color:
     - '#D73226'
     - '#414242'
     - '#A6A8AB'
-content_rating:
-  adult: false
 github: true
+layout_spectrum: 0.35073971123766556
 analytics:
   twitter: ''
   google: UA-93195675-1
@@ -32,6 +32,10 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
+navigation:
+  - name: Facebook
+    url: 'https://www.facebook.com/FullLifeAcademyCourse/'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/99ee198f-247b-45a6-8fb5-020262d87978.png
 title: Full Life Academy
