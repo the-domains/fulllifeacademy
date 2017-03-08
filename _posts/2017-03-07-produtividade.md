@@ -8,8 +8,8 @@ description: >-
   importância da definição da visão, missão e metas. Mas como conciliar a
   correria do dia-a-dia com uma visão ampla de longo prazo? É possível conjugar
   controle do tempo e criatividade?
-dateModified: '2017-03-08T12:19:11.419Z'
-datePublished: '2017-03-08T12:19:12.572Z'
+dateModified: '2017-03-08T13:02:27.769Z'
+datePublished: '2017-03-08T13:02:28.494Z'
 title: Produtividade Acelerada
 author: []
 publisher: {}
@@ -31,13 +31,8 @@ Neste curso, baseado numa nova ótica de administração de visão, metas e tare
 **Conteúdo programático:**
 
 * Aprenda vários sistemas de gerenciamento de tempo e escolha o seu ou crie o seu
-
 * Como ter uma maior produtividade
-
 * O que é foco e como aprende-lo
-
 * O que é produtividade
-
 * Como os habitos são formados
-
 * Como adquirir novos hábitos
