@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Aprenda a cuidar do corpo da mente e do espírito como um todo.
-dateModified: '2017-03-07T22:38:39.661Z'
-datePublished: '2017-03-07T22:38:43.228Z'
+dateModified: '2017-03-08T13:07:19.909Z'
+datePublished: '2017-03-08T13:07:20.613Z'
 title: Triade Vital
 author: []
 publisher: {}
@@ -21,51 +21,34 @@ _type: Article
 
 Aprenda a cuidar do corpo da mente e do espírito como um todo.
 
-Corpo
+**Corpo**
 
-- Alimentação
+* Alimentação
+* Tipos de alimentação
+* Os alimentos emocionais e suas funções
+* Tipos de corpos e suas funçoes
+* O que é ter saúde
+* Como manter uma saúde plena
+* Como o corpo se conecta com a mente
 
-- Tipos de alimentação
+**Mente**
 
-- Os alimentos emocionais e suas funções
+* Funcionamento da mente
+* Como sao formados pensamentos
+* Como funcionam os dois hemisférios cerebrais
+* Frequencias cerebrais e como induzi-las
+* Meditaçoes ativas e passivas e qual utilizar
+* O processo do sono e seus ciclos
+* Sonos lúcidos
+* Outras maneiras de dormir
+* Como funciona a linguagem
 
-- Tipos de corpos e suas funçoes
+**Espirito**
 
-- O que é ter saúde
-
-- Como manter uma saúde plena
-
-- Como o corpo se conecta com a mente
-
-Mente
-
-- Funcionamento da mente
-
-- Como sao formados pensamentos
-
-- Como funcionam os dois hemisférios cerebrais
-
-- Frequencias cerebrais e como induzi-las
-
-- Meditaçoes ativas e passivas e qual utilizar
-
-- O processo do sono e seus ciclos
-
-- Sonos lúcidos
-
-- Outras maneiras de dormir
-
-- Como funciona a linguagem
-
-Espirito
-
-- Meditação para o espírito
-
-- Sistema de Chakras
-
-- Kundaliní e espirito
-
-- Religiões e base de crenças
+* Meditação para o espírito
+* Sistema de Chakras
+* Kundaliní e espirito
+* Religiões e base de crenças
 
 ---
 
