@@ -11,8 +11,8 @@ description: >-
   mobilidade urbana não fica atrás: o transporte é feito em cápsulas
   subterrâneas. Tudo isso e muito mais usando energia solar como base ao invés
   do petróleo.
-dateModified: '2017-03-08T14:59:55.688Z'
-datePublished: '2017-03-08T14:59:56.019Z'
+dateModified: '2017-03-08T22:56:00.942Z'
+datePublished: '2017-03-08T22:56:01.848Z'
 title: Futurismo
 author: []
 publisher: {}
