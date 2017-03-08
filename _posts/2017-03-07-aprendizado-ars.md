@@ -5,8 +5,8 @@ description: >-
   proporcionar um maior aprendizado dos conteúdos acadêmicos ao aluno, por meio
   da aquisição de habilidades sociemocionais, transformando o ambiente escolar
   num espaço completo de cooperação.
-dateModified: '2017-03-07T22:28:53.217Z'
-datePublished: '2017-03-07T22:28:53.488Z'
+dateModified: '2017-03-08T13:04:21.073Z'
+datePublished: '2017-03-08T13:04:22.478Z'
 title: Aprendizado ARS
 author: []
 publisher: {}
@@ -22,3 +22,9 @@ _type: Blurb
 # Aprendizado ARS
 
 A Aprendizagem Autodidata Rápido Sistêmica tem como principal objetivo proporcionar um maior aprendizado dos conteúdos acadêmicos ao aluno, por meio da aquisição de habilidades sociemocionais, transformando o ambiente escolar num espaço completo de cooperação.
+
+* Curadoria pirata (Como pesquisar corretamente na internet)
+* Fotoleitura (Aproveite e leia mais em menos tempo)
+* Hackear educação (O ciclo para aprender o que quiser)
+* Tecnologia (Como usar a tecnologia para aprender)
+* Os tipos de relacionamento e como cada tipo aprende
