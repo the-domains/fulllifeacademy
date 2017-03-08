@@ -7,8 +7,8 @@ description: >-
   propagaram-se, misturando-se com diversas outras culturas e correntes
   filosóficas e religiosas como o Hinduísmo, o Vedanta, o Yoga, o Budismo, o
   Taoísmo, entre outras.
-dateModified: '2017-03-07T22:28:53.217Z'
-datePublished: '2017-03-07T22:28:53.468Z'
+dateModified: '2017-03-08T13:05:46.565Z'
+datePublished: '2017-03-08T13:05:47.131Z'
 title: Sexualidade Tantrica
 author: []
 publisher: {}
@@ -25,18 +25,11 @@ _type: Blurb
 
 Tantra é um termo amplo, pelo qual antigos estudantes de espiritualidade na Índia designavam um tipo muito especial de ensinamentos e práticas que tiveram base em uma antiga sociedade. Com o passar do tempo, estes ensinamentos propagaram-se, misturando-se com diversas outras culturas e correntes filosóficas e religiosas como o Hinduísmo, o Vedanta, o Yoga, o Budismo, o Taoísmo, entre outras.
 
-- O que é a sexualidade
-
-- O que é o Tantra
-
-- Kundaliní e a energia sexual
-
-- Como sublimar e canalizar sua energia
-
-- O poder dos Orgasmos e como aproveita-los
-
-- Rituais Tantricos
-
-- Cumplicidade e relacionamento
-
-- Bioenergia
+* O que é a sexualidade
+* O que é o Tantra
+* Kundaliní e a energia sexual
+* Como sublimar e canalizar sua energia
+* O poder dos Orgasmos e como aproveita-los
+* Rituais Tantricos
+* Cumplicidade e relacionamento
+* Bioenergia
