@@ -24,7 +24,7 @@ author:
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/0c7a00db-db0b-4da9-81fd-b20320e6fdf2.png
 name: FullLifeAcademy
-url: 'http://www.fulllifeacademy.com.br/'
+url: 'http://fulllifeacademy.com.br/'
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
@@ -60,7 +60,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
