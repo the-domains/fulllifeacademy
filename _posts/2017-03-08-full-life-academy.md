@@ -6,15 +6,15 @@ description: >-
   é passar adiante conhecimentos exclusivos que talvez não encontre em outro
   lugar. Levamos o desenvolvimento pessoal a outro patamar, muito mais elevado e
   completo. 
-dateModified: '2017-03-08T14:58:59.556Z'
-datePublished: '2017-03-08T14:59:00.359Z'
+dateModified: '2017-03-08T14:59:55.688Z'
+datePublished: '2017-03-08T14:59:55.996Z'
 title: Full Life Academy
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-03-08-full-life-academy.md
 starred: false
 datePublishedOriginal: '2017-03-08T14:59:00.359Z'
-sourcePath: _posts/2017-03-08-full-life-academy.md
 _type: Blurb
 
 ---
