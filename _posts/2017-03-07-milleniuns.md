@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   A Full Life Academy foi criada para a nova geração de pessoas inquietas que
   querem o melhor para si em todas as áreas da vida.
-dateModified: '2017-03-08T13:58:40.446Z'
-datePublished: '2017-03-08T13:58:40.971Z'
+dateModified: '2017-03-08T14:59:55.688Z'
+datePublished: '2017-03-08T14:59:56.023Z'
 title: Milleniuns
 author: []
 publisher: {}
