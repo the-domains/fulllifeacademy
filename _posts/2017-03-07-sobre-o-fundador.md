@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Olá, '
-dateModified: '2017-03-08T15:08:50.348Z'
-datePublished: '2017-03-08T15:08:51.015Z'
+dateModified: '2017-03-08T15:08:51.425Z'
+datePublished: '2017-03-08T15:08:52.077Z'
 title: Sobre o fundador
 author: []
 publisher: {}
