@@ -8,7 +8,7 @@ description: >-
   filosóficas e religiosas como o Hinduísmo, o Vedanta, o Yoga, o Budismo, o
   Taoísmo, entre outras.
 dateModified: '2017-03-08T13:05:46.565Z'
-datePublished: '2017-03-08T13:05:47.131Z'
+datePublished: '2017-03-08T13:05:47.366Z'
 title: Sexualidade Tantrica
 author: []
 publisher: {}
