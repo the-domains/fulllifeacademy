@@ -5,8 +5,8 @@ description: >-
   proporcionar um maior aprendizado dos conteúdos acadêmicos ao aluno, por meio
   da aquisição de habilidades sociemocionais, transformando o ambiente escolar
   num espaço completo de cooperação.
-dateModified: '2017-03-08T13:04:21.073Z'
-datePublished: '2017-03-08T13:04:22.478Z'
+dateModified: '2017-03-08T13:45:55.311Z'
+datePublished: '2017-03-08T13:45:56.322Z'
 title: Aprendizado ARS
 author: []
 publisher: {}
@@ -17,7 +17,7 @@ datePublishedOriginal: '2017-03-07T22:27:40.967Z'
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6d322330-5ced-4cba-b2b5-02a708960f9e.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c0c954ed-fe26-430a-be4a-ff81f77e72a8.jpg)
 
 # Aprendizado ARS
 
