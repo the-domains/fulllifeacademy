@@ -4,8 +4,8 @@ description: >-
   Os conflitos existem desde o início da humanidade, fazem parte do processo de
   evolução dos seres humanos e são necessários para o desenvolvimento e o
   crescimento de qualquer sistema familiar, social, político e organizacional.
-dateModified: '2017-03-07T22:28:53.217Z'
-datePublished: '2017-03-07T22:28:53.488Z'
+dateModified: '2017-03-08T13:01:39.610Z'
+datePublished: '2017-03-08T13:01:40.715Z'
 title: Relacionamento Intrapessoal
 author: []
 publisher: {}
@@ -26,18 +26,11 @@ Existem inúmeras alternativas para indivíduos e grupos lidarem com os conflito
 
 **Conteúdo Programático:**
 
-- Como funcionam as Emocoes
-
-- As emoçoes como um sistema
-
-- Entenda cada classe de emoçoes e para que elas servem
-
-- Entenda que as pessoas que vc briga são as que voce mais precisa (Quadrado essencial)
-
-- Meditacoes e exercicios para sublimar e compreender emoçoes
-
-- A triade do desapego no relacionamento
-
-- CNV
-
-- Investigando seu sistema de crenças
+* Como funcionam as Emocoes
+* As emoçoes como um sistema
+* Entenda cada classe de emoçoes e para que elas servem
+* Entenda que as pessoas que vc briga são as que voce mais precisa (Quadrado essencial)
+* Meditacoes e exercicios para sublimar e compreender emoçoes
+* A triade do desapego no relacionamento
+* CNV
+* Investigando seu sistema de crenças
