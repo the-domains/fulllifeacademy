@@ -7,8 +7,8 @@ description: >-
   propagaram-se, misturando-se com diversas outras culturas e correntes
   filosóficas e religiosas como o Hinduísmo, o Vedanta, o Yoga, o Budismo, o
   Taoísmo, entre outras.
-dateModified: '2017-03-08T13:05:46.565Z'
-datePublished: '2017-03-08T13:05:47.366Z'
+dateModified: '2017-03-08T14:59:55.688Z'
+datePublished: '2017-03-08T14:59:56.023Z'
 title: Sexualidade Tantrica
 author: []
 publisher: {}
