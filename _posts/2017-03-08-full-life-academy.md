@@ -6,8 +6,8 @@ description: >-
   é passar adiante conhecimentos exclusivos que talvez não encontre em outro
   lugar. Levamos o desenvolvimento pessoal a outro patamar, muito mais elevado e
   completo. 
-dateModified: '2017-03-08T14:59:55.688Z'
-datePublished: '2017-03-08T14:59:55.996Z'
+dateModified: '2017-03-08T22:56:00.942Z'
+datePublished: '2017-03-08T22:56:01.843Z'
 title: Full Life Academy
 author: []
 publisher: {}
