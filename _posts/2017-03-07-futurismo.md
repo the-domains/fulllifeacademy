@@ -11,8 +11,8 @@ description: >-
   mobilidade urbana não fica atrás: o transporte é feito em cápsulas
   subterrâneas. Tudo isso e muito mais usando energia solar como base ao invés
   do petróleo.
-dateModified: '2017-03-07T22:37:24.418Z'
-datePublished: '2017-03-07T22:37:25.084Z'
+dateModified: '2017-03-08T13:05:03.459Z'
+datePublished: '2017-03-08T13:05:04.535Z'
 title: Futurismo
 author: []
 publisher: {}
@@ -29,12 +29,8 @@ _type: Blurb
 
 Uma cidade inteligente. Esta é Masdar, nos Emirados Árabes. Pensada para ser o modelo urbanístico do futuro, a cidade traz práticas arquitetônicas interessantes como a mescla dos projetos tipicamente árabes com adequações de uso, como beirais que fazem sombra para os andares inferiores ou uma torre de 45 metros que captura os fortes ventos e redireciona para as ruas. Outro exemplo que diminui a exposição às altas temperaturas da região são os jatos de água que baixam a temperatura e criam ambientes frescos. A inovação na mobilidade urbana não fica atrás: o transporte é feito em cápsulas subterrâneas. Tudo isso e muito mais usando energia solar como base ao invés do petróleo.
 
-- Como será o futuro?
-
-- Tecnologias que estão surgindo
-
-- Tecnologias de hoje
-
-- Como as novas tecnologias impactaram no passado
-
-- Novas áreas e novas profissões
+* Como será o futuro?
+* Tecnologias que estão surgindo
+* Tecnologias de hoje
+* Como as novas tecnologias impactaram no passado
+* Novas áreas e novas profissões
