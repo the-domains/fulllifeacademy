@@ -1,11 +1,8 @@
 ---
 inFeed: true
-description: >-
-  Com a compreensão de meu ego e quem sou e a relação dele com minha vida e
-  minhas ações busco estar presente em todos os momentos, aprendendo a melhor
-  forma de viver em todas as formas e contextos.
-dateModified: '2017-03-07T22:46:26.326Z'
-datePublished: '2017-03-07T22:46:27.878Z'
+description: 'Olá, '
+dateModified: '2017-03-08T15:08:50.348Z'
+datePublished: '2017-03-08T15:08:51.015Z'
 title: Sobre o fundador
 author: []
 publisher: {}
@@ -19,7 +16,11 @@ _type: Article
 
 ---
 # Sobre o fundador
-![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/42e85cd34b5a67fe55c29d5f652a6cdc/croprotate.png?cropheight=3054&cropwidth=4592&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F29b4fdfd-5ec2-443f-8d22-f43b3d94083b.png&x=0&y=0)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/034e34ecf5d06cc867c89ef63ed3d1d8be9dded2.png)
+
+Olá, 
+
+meu nome é Henrique Utsch e gostaria de compartilhar uma auto-reflexão.
 
 Com a compreensão de meu ego e quem sou e a relação dele com minha vida e minhas ações busco estar presente em todos os momentos, aprendendo a melhor forma de viver em todas as formas e contextos.
 
@@ -31,7 +32,7 @@ Aprendi que para amar ao próximo preciso amar a mim mesmo sabendo do que gosto 
 
 Alem disso, a evolução e aprimoramento constante são importantes em minha vida com o intuito de trabalhar habilidades físicas, emocionais, mentais e intuicionais com o propósito de atuar melhor nos relacionamentos intra e interpessoais também como meu papel como atuador no mundo.
 
-Mini-Currículo:
+**Mini-Currículo:**
 
 * Curso de Programação Neuro Linguística no IbraPNL
 * Ciência da Computação na Universidade Fumec
