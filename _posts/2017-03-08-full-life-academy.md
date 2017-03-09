@@ -5,9 +5,9 @@ description: >-
   de ferramentas para impulsionar o ser humano a sua totalidade. Nossa proposta
   é passar adiante conhecimentos exclusivos que talvez não encontre em outro
   lugar. Levamos o desenvolvimento pessoal a outro patamar, muito mais elevado e
-  completo. 
-dateModified: '2017-03-08T22:56:00.942Z'
-datePublished: '2017-03-08T22:56:01.843Z'
+  completo.
+dateModified: '2017-03-09T00:48:43.525Z'
+datePublished: '2017-03-09T00:48:44.288Z'
 title: Full Life Academy
 author: []
 publisher: {}
@@ -18,11 +18,11 @@ datePublishedOriginal: '2017-03-08T14:59:00.359Z'
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7a8c41a4-08f0-4ca6-94b6-360eaa8ecbe1.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/19874b9f-f027-4923-b602-d680937db908.png)
 
 # Full Life Academy
 
-Após 15 anos de estudos em diversas áreas consegui reunir uma boa quantidade de ferramentas para impulsionar o ser humano a sua totalidade. Nossa proposta é passar adiante conhecimentos exclusivos que talvez não encontre em outro lugar. Levamos o desenvolvimento pessoal a outro patamar, muito mais elevado e completo. 
+Após 15 anos de estudos em diversas áreas consegui reunir uma boa quantidade de ferramentas para impulsionar o ser humano a sua totalidade. Nossa proposta é passar adiante conhecimentos exclusivos que talvez não encontre em outro lugar. Levamos o desenvolvimento pessoal a outro patamar, muito mais elevado e completo.
 
 A Full Life Academy surgiu para ensinar tudo aquilo que seus pais, a escola ou a universidade não vão te ensinar. Com muito amor, inteligência, liberdade e respeito temos como foco um ser humano evoluído e preparado para ter tudo aquilo que é seu apenas por viver na terra.
 
