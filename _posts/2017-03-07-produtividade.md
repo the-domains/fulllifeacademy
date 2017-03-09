@@ -2,14 +2,13 @@
 inFeed: true
 description: >-
   Muitas são as teorias, técnicas e ferramentas que prometem total controle do
-  “tempo”. Parte desse arsenal é herança de uma abordagem tradicional oriunda de
-  Era Industrial, onde a produção era medida em tempo. Do outro lado, surgiram
-  visões mais longitudinais para tratar de planejamentos complexos, levantando a
-  importância da definição da visão, missão e metas. Mas como conciliar a
-  correria do dia-a-dia com uma visão ampla de longo prazo? É possível conjugar
-  controle do tempo e criatividade?
-dateModified: '2017-03-09T18:36:08.808Z'
-datePublished: '2017-03-09T18:36:09.802Z'
+  “tempo”. Parte desse arsenal é herança de uma abordagem da Era Industrial,
+  onde a produção era medida em tempo. Do outro lado, surgiram visões mais
+  amplas para tratar de planejamentos complexos. Mas como conciliar a correria
+  do dia-a-dia com uma visão ampla de longo prazo? É possível conciliar seu
+  tempo entre trabalho e família?
+dateModified: '2017-03-09T18:43:09.056Z'
+datePublished: '2017-03-09T18:43:10.275Z'
 title: Produtividade Acelerada
 author: []
 publisher: {}
@@ -24,7 +23,13 @@ _type: Blurb
 
 # Produtividade Acelerada
 
-Muitas são as teorias, técnicas e ferramentas que prometem total controle do "tempo". Parte desse arsenal é herança de uma abordagem tradicional oriunda de Era Industrial, onde a produção era medida em tempo. Do outro lado, surgiram visões mais longitudinais para tratar de planejamentos complexos, levantando a importância da definição da visão, missão e metas. Mas como conciliar a correria do dia-a-dia com uma visão ampla de longo prazo? É possível conjugar controle do tempo e criatividade?
+Muitas são as teorias, técnicas e ferramentas que prometem total controle do "tempo". Parte desse arsenal é herança de uma abordagem da Era Industrial, onde a produção era medida em tempo. Do outro lado, surgiram visões mais amplas para tratar de planejamentos complexos. Mas como conciliar a correria do dia-a-dia com uma visão ampla de longo prazo? É possível conciliar seu tempo entre trabalho e família?
+
+Através do estudo de inúmeras ferramentas e métodos conseguimos modificar, criar e apagar hábitos e ter disciplina em nossas vidas. Conseguimos fazer muita mais coisas com muito menos esforço e com isso ganhar muito mais tempo para fazer o que realmente importa.
+
+Foco é importante e está cada vez mais difícil se manter focado nos dias de hoje. É tanta informação que realmente não conseguimos desligar nossas mentes e quando desligamos sentimos culpa por não obter mais informação e mais produtividade. 
+
+Acabamos por tentar ultrapassar nossos limites mentais e corporais em nossos trabalhos e lares e muitas vezes ficamos doentes mental e fisicamente devido a falta de descanso.
 
 Neste curso, reunimos diversas ferramentas sob uma nova ótica para administrar suas tarefas e seu tempo utilizando várias metodologias modernas para organizar sua rotina de forma a permanecer com a mente tranquila.
 
