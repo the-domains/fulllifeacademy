@@ -16,7 +16,7 @@ description: >-
   esse estado para outras pessoas. O processo de reconstrução da dança é muito
   lindo e harmonioso.
 dateModified: '2017-03-09T18:43:42.154Z'
-datePublished: '2017-03-09T18:43:42.810Z'
+datePublished: '2017-03-09T18:43:42.795Z'
 title: Dança Cósmica
 author: []
 publisher: {}
