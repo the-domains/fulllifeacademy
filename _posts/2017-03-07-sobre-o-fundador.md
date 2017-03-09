@@ -1,9 +1,9 @@
 ---
 inFeed: true
-description: 'Olá, '
-dateModified: '2017-03-08T22:56:00.942Z'
-datePublished: '2017-03-08T22:56:01.674Z'
-title: Sobre o fundador
+description: 'Olá,'
+dateModified: '2017-03-09T11:07:04.871Z'
+datePublished: '2017-03-09T11:07:04.966Z'
+title: Sobre o Fundador
 author: []
 publisher: {}
 via: {}
@@ -15,10 +15,10 @@ url: sobre-o-fundador/index.html
 _type: Article
 
 ---
-# Sobre o fundador
+# Sobre o Fundador
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/034e34ecf5d06cc867c89ef63ed3d1d8be9dded2.png)
 
-Olá, 
+Olá,
 
 meu nome é Henrique Utsch e gostaria de compartilhar uma auto-reflexão.
 
