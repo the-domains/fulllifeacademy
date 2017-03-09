@@ -1,8 +1,13 @@
 ---
 inFeed: true
-description: Aprenda a cuidar do corpo da mente e do espírito como um todo.
-dateModified: '2017-03-09T11:07:45.647Z'
-datePublished: '2017-03-09T11:07:46.058Z'
+description: >-
+  Como seria unificar corpo, mente e espírito em um único ser completo e
+  desperto? A Tríade Vital vem como forma de equilíbrio do ser com ferramentas
+  diversas para compreender o que une cada um dos corpos. Existem inúmeros
+  corpos dentro de um único corpo, no entanto, esses corpos são muito sutis e
+  sensíveis e com prática é possível sentir a energia emanada por cada corpo.
+dateModified: '2017-03-09T19:06:01.311Z'
+datePublished: '2017-03-09T19:06:03.361Z'
 title: Triade Vital
 author: []
 publisher: {}
@@ -19,7 +24,11 @@ _type: Article
 
 # Triade Vital
 
-Aprenda a cuidar do corpo da mente e do espírito como um todo.
+Como seria unificar corpo, mente e espírito em um único ser completo e desperto? A Tríade Vital vem como forma de equilíbrio do ser com ferramentas diversas para compreender o que une cada um dos corpos. Existem inúmeros corpos dentro de um único corpo, no entanto, esses corpos são muito sutis e sensíveis e com prática é possível sentir a energia emanada por cada corpo.
+
+Em inúmeras civilizações vemos uma mesma explicação para este mesmo conceito de corpo, mente e espírito.
+
+Mas na verdade o que define um corpo físico, um mental e um espiritual? Como todos eles se conectam para formar o ser complexo que somos?
 
 **Corpo**
 
