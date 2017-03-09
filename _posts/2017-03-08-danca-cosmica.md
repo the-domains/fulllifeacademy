@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Aprimore sua dança assim como o fez o rei dos bailarinos.
-dateModified: '2017-03-08T22:56:00.942Z'
-datePublished: '2017-03-08T22:56:01.852Z'
+dateModified: '2017-03-09T11:07:45.647Z'
+datePublished: '2017-03-09T11:07:46.057Z'
 title: Dança Cósmica
 author: []
 publisher: {}
