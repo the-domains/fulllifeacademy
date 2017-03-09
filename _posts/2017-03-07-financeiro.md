@@ -6,8 +6,8 @@ description: >-
   em empresas. Saiba como e quando investir em renda fica, títulos públicos e
   previdência privada.Cada aula trata de um assunto fundamental para você saber
   qual a melhor decisão tomar para cuidar de seus investimentos.
-dateModified: '2017-03-09T11:07:45.647Z'
-datePublished: '2017-03-09T11:07:45.969Z'
+dateModified: '2017-03-09T19:14:54.429Z'
+datePublished: '2017-03-09T19:14:55.047Z'
 title: Independencia Financeira
 author: []
 publisher: {}
@@ -26,6 +26,10 @@ _type: Article
 
 Modifique suas crenças, liberte-se de seus medos, aprenda estratégias avançadas para investir em imóveis, para atuar no mercado de ações e investir em empresas. Saiba como e quando investir em renda fica, títulos públicos e previdência privada.  
 Cada aula trata de um assunto fundamental para você saber qual a melhor decisão tomar para cuidar de seus investimentos.
+
+Onde devo investir minhas economias? Já pensou que falar sobre dinheiro é um tabu hoje em dia? São poucas as famílias que falam sobre esse assunto em uma mesa de jantar e muitos evitam falar sobre e também ver o extrato mensal. Muitos acreditam que dinheiro traz infelicidade e que não é merecedor de te-lo em abundância. Muitos vivem endividados e por mais que ganhem mais dinheiro irão gastar tudo o que ganhar não sabendo como poupar ou como investir seu suado dinheirinho.
+
+**Conteúdo Programático:**
 
 * Como adquirir independencia financeira
 * Como economizar em compras e fazer pesquisa inteligente
