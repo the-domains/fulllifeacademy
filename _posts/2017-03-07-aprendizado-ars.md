@@ -5,8 +5,8 @@ description: >-
   proporcionar um maior aprendizado dos conteúdos acadêmicos ao aluno, por meio
   da aquisição de habilidades adaptativas e flexíveis, transformamos o ambiente
   educacional num espaço completo de cooperação. 
-dateModified: '2017-03-09T19:00:42.251Z'
-datePublished: '2017-03-09T19:00:42.903Z'
+dateModified: '2017-03-09T19:01:01.983Z'
+datePublished: '2017-03-09T19:01:02.588Z'
 title: Aprendizado ARS
 author: []
 publisher: {}
@@ -30,6 +30,8 @@ No final das contas quem aprende e retêm o conhecimento é você e não tem com
 Existem inúmeras maneiras de aprender e de reter conhecimento. Hoje já não basta o famoso decorar, se fosse assim, o google teria todo o conhecimento do mundo armazenado. Hoje é possível aprender praticamente qualquer coisa na internet e tem surgido inúmeras mentes autodidatas que fazem do aprendizado algo prazeroso e sublime.
 
 A genialidade existe em todos os seres e cabe a nós mesmos busca-la dentro de nosso ser. Nossa mente é capaz de feitos inimagináveis e milagrosos desde que sabemos como usa-la.
+
+**Conteúdo programático:**
 
 * Curadoria pirata (Como pesquisar corretamente na internet)
 * Fotoleitura (Aproveite e leia mais em menos tempo)
