@@ -8,8 +8,8 @@ description: >-
   importância da definição da visão, missão e metas. Mas como conciliar a
   correria do dia-a-dia com uma visão ampla de longo prazo? É possível conjugar
   controle do tempo e criatividade?
-dateModified: '2017-03-09T11:07:45.647Z'
-datePublished: '2017-03-09T11:07:46.045Z'
+dateModified: '2017-03-09T18:36:08.808Z'
+datePublished: '2017-03-09T18:36:09.802Z'
 title: Produtividade Acelerada
 author: []
 publisher: {}
@@ -26,7 +26,7 @@ _type: Blurb
 
 Muitas são as teorias, técnicas e ferramentas que prometem total controle do "tempo". Parte desse arsenal é herança de uma abordagem tradicional oriunda de Era Industrial, onde a produção era medida em tempo. Do outro lado, surgiram visões mais longitudinais para tratar de planejamentos complexos, levantando a importância da definição da visão, missão e metas. Mas como conciliar a correria do dia-a-dia com uma visão ampla de longo prazo? É possível conjugar controle do tempo e criatividade?
 
-Neste curso, baseado numa nova ótica de administração de visão, metas e tarefas, o Prof. Charles ensina uma metodologia de como organizar rotinas de forma a manter a mente serena, assim como nos encontramos ao final de nossas práticas regulares.
+Neste curso, reunimos diversas ferramentas sob uma nova ótica para administrar suas tarefas e seu tempo utilizando várias metodologias modernas para organizar sua rotina de forma a permanecer com a mente tranquila.
 
 **Conteúdo programático:**
 
