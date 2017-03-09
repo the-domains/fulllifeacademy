@@ -2,13 +2,13 @@
 inFeed: true
 description: >-
   Tantra é um termo amplo, pelo qual antigos estudantes de espiritualidade na
-  Índia designavam um tipo muito especial de ensinamentos e práticas que tiveram
-  base em uma antiga sociedade. Com o passar do tempo, estes ensinamentos
-  propagaram-se, misturando-se com diversas outras culturas e correntes
-  filosóficas e religiosas como o Hinduísmo, o Vedanta, o Yoga, o Budismo, o
-  Taoísmo, entre outras.
-dateModified: '2017-03-09T11:07:45.647Z'
-datePublished: '2017-03-09T11:07:46.040Z'
+  Índia designavam um tipo de ensinamentos e rituais que tiveram base em uma
+  antiga sociedade situada no Vale do Indo. Com o passar do tempo, estes
+  ensinamentos propagaram-se, misturando-se com diversas outras culturas e
+  correntes filosóficas e religiosas como o Hinduísmo, o Vedanta, o Yoga, o
+  Budismo, o Taoísmo, entre outras.
+dateModified: '2017-03-09T18:48:25.289Z'
+datePublished: '2017-03-09T18:48:25.806Z'
 title: Sexualidade Tantrica
 author: []
 publisher: {}
@@ -23,7 +23,11 @@ _type: Blurb
 
 # Sexualidade Tantrica
 
-Tantra é um termo amplo, pelo qual antigos estudantes de espiritualidade na Índia designavam um tipo muito especial de ensinamentos e práticas que tiveram base em uma antiga sociedade. Com o passar do tempo, estes ensinamentos propagaram-se, misturando-se com diversas outras culturas e correntes filosóficas e religiosas como o Hinduísmo, o Vedanta, o Yoga, o Budismo, o Taoísmo, entre outras.
+Tantra é um termo amplo, pelo qual antigos estudantes de espiritualidade na Índia designavam um tipo de ensinamentos e rituais que tiveram base em uma antiga sociedade situada no Vale do Indo. Com o passar do tempo, estes ensinamentos propagaram-se, misturando-se com diversas outras culturas e correntes filosóficas e religiosas como o Hinduísmo, o Vedanta, o Yoga, o Budismo, o Taoísmo, entre outras.
+
+O Tantra é uma filosofia comportamental desrepressora, matriarcal, sensorial oriunda de uma civilização antiga que não cultuava deuses. Para eles os deuses moravam dentro do nosso corpo e assim ao cultuar e respeitar seu corpo e o próximo, estavam venerando a si mesmos e todos os membros de uma sociedade. Nosso corpo é o próprio templo divino encarnado, a própria existência de Deus manifestada em carne e osso.
+
+**Conteúdo Programático:**
 
 * O que é a sexualidade
 * O que é o Tantra
