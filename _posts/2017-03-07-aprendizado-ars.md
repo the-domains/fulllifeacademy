@@ -5,8 +5,8 @@ description: >-
   proporcionar um maior aprendizado dos conteúdos acadêmicos ao aluno, por meio
   da aquisição de habilidades adaptativas e flexíveis, transformamos o ambiente
   educacional num espaço completo de cooperação. 
-dateModified: '2017-03-09T19:01:01.983Z'
-datePublished: '2017-03-09T19:01:02.588Z'
+dateModified: '2017-03-09T19:01:03.508Z'
+datePublished: '2017-03-09T19:01:03.913Z'
 title: Aprendizado ARS
 author: []
 publisher: {}
