@@ -1,8 +1,22 @@
 ---
 inFeed: true
-description: Aprimore sua dança assim como o fez o rei dos bailarinos.
-dateModified: '2017-03-09T11:07:45.647Z'
-datePublished: '2017-03-09T11:07:46.057Z'
+description: >-
+  Aprimore sua dança assim como o fez o rei dos bailarinos. Após muito tempo
+  dançando danças a dois e muito observação entrei em um processo interno de
+  imensa felicidade e conexão com o outro ao dançar. Foi a partir desse momento
+  que meu processo de dança foi desconstruído e tive contato com um novo mundo
+  da dança. Essa nova dança que se apresentou foi uma experiência
+  cósmico-orgástica e senti algo que nunca havia experimentado antes. Após essa
+  experiência tive experiências similares com exercícios de meditação tântrica e
+  meu corpo e minha mente aprenderam a acessar esse estado mais elevado da
+  dança. Esse estado interno é acessado por grandes e famosos dançarinos. Um
+  estado interno poderoso e unificador onde todas as suas partes se tornam uma
+  única parte. No início não foi fácil o acesso a este estado. Depois de várias
+  danças acessando este estado descobri meu caminho e pude experimentar e passar
+  esse estado para outras pessoas. O processo de reconstrução da dança é muito
+  lindo e harmonioso.
+dateModified: '2017-03-09T18:43:42.154Z'
+datePublished: '2017-03-09T18:43:42.810Z'
 title: Dança Cósmica
 author: []
 publisher: {}
@@ -17,7 +31,9 @@ _type: Blurb
 
 # Dança Cósmica
 
-Aprimore sua dança assim como o fez o rei dos bailarinos.
+Aprimore sua dança assim como o fez o rei dos bailarinos. Após muito tempo dançando danças a dois e muito observação entrei em um processo interno de imensa felicidade e conexão com o outro ao dançar. Foi a partir desse momento que meu processo de dança foi desconstruído e tive contato com um novo mundo da dança. Essa nova dança que se apresentou foi uma experiência cósmico-orgástica e senti algo que nunca havia experimentado antes. Após essa experiência tive experiências similares com exercícios de meditação tântrica e meu corpo e minha mente aprenderam a acessar esse estado mais elevado da dança. Esse estado interno é acessado por grandes e famosos dançarinos. Um estado interno poderoso e unificador onde todas as suas partes se tornam uma única parte. No início não foi fácil o acesso a este estado. Depois de várias danças acessando este estado descobri meu caminho e pude experimentar e passar esse estado para outras pessoas. O processo de reconstrução da dança é muito lindo e harmonioso.
+
+**Conteúdo Programático:**
 
 * Apresentação e quem sou eu
 * Processo de aprendizado da dança
