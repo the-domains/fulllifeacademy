@@ -6,9 +6,9 @@ description: >-
   é passar adiante conhecimentos exclusivos que talvez não encontre em outro
   lugar. Levamos o desenvolvimento pessoal a outro patamar, muito mais elevado e
   completo.
-dateModified: '2017-03-09T00:48:43.525Z'
-datePublished: '2017-03-09T00:48:44.288Z'
-title: Full Life Academy
+dateModified: '2017-03-09T01:40:43.564Z'
+datePublished: '2017-03-09T01:40:44.169Z'
+title: ''
 author: []
 publisher: {}
 via: {}
@@ -19,8 +19,6 @@ _type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/19874b9f-f027-4923-b602-d680937db908.png)
-
-# Full Life Academy
 
 Após 15 anos de estudos em diversas áreas consegui reunir uma boa quantidade de ferramentas para impulsionar o ser humano a sua totalidade. Nossa proposta é passar adiante conhecimentos exclusivos que talvez não encontre em outro lugar. Levamos o desenvolvimento pessoal a outro patamar, muito mais elevado e completo.
 
