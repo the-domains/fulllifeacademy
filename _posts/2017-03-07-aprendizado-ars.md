@@ -3,10 +3,10 @@ inFeed: true
 description: >-
   A Aprendizagem Autodidata Rápido Sistêmica tem como principal objetivo
   proporcionar um maior aprendizado dos conteúdos acadêmicos ao aluno, por meio
-  da aquisição de habilidades sociemocionais, transformando o ambiente escolar
-  num espaço completo de cooperação.
-dateModified: '2017-03-09T11:07:45.647Z'
-datePublished: '2017-03-09T11:07:46.044Z'
+  da aquisição de habilidades adaptativas e flexíveis, transformamos o ambiente
+  educacional num espaço completo de cooperação. 
+dateModified: '2017-03-09T19:00:42.251Z'
+datePublished: '2017-03-09T19:00:42.903Z'
 title: Aprendizado ARS
 author: []
 publisher: {}
@@ -21,7 +21,15 @@ _type: Blurb
 
 # Aprendizado ARS
 
-A Aprendizagem Autodidata Rápido Sistêmica tem como principal objetivo proporcionar um maior aprendizado dos conteúdos acadêmicos ao aluno, por meio da aquisição de habilidades sociemocionais, transformando o ambiente escolar num espaço completo de cooperação.
+A Aprendizagem Autodidata Rápido Sistêmica tem como principal objetivo proporcionar um maior aprendizado dos conteúdos acadêmicos ao aluno, por meio da aquisição de habilidades adaptativas e flexíveis, transformamos o ambiente educacional num espaço completo de cooperação. 
+
+Muitas vezes aprendemos a aceitar conceitos prontos e programados pelo professor que manifesta como detentor do conhecimento. Através da internet e acesso a informação, o conhecimento se tornou amplo e compartilhado não dependendo mais unicamente de um professor para passa-lo adiante.
+
+No final das contas quem aprende e retêm o conhecimento é você e não tem como nenhum professor fazer o trabalho de aprender por você. O processo de aprendizado é uma experiência única e intransferível que apenas você sabe como aprender.
+
+Existem inúmeras maneiras de aprender e de reter conhecimento. Hoje já não basta o famoso decorar, se fosse assim, o google teria todo o conhecimento do mundo armazenado. Hoje é possível aprender praticamente qualquer coisa na internet e tem surgido inúmeras mentes autodidatas que fazem do aprendizado algo prazeroso e sublime.
+
+A genialidade existe em todos os seres e cabe a nós mesmos busca-la dentro de nosso ser. Nossa mente é capaz de feitos inimagináveis e milagrosos desde que sabemos como usa-la.
 
 * Curadoria pirata (Como pesquisar corretamente na internet)
 * Fotoleitura (Aproveite e leia mais em menos tempo)
