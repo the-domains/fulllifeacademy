@@ -7,8 +7,8 @@ description: >-
   amplas para tratar de planejamentos complexos. Mas como conciliar a correria
   do dia-a-dia com uma visão ampla de longo prazo? É possível conciliar seu
   tempo entre trabalho e família?
-dateModified: '2017-03-09T18:43:09.056Z'
-datePublished: '2017-03-09T18:43:10.275Z'
+dateModified: '2017-03-10T02:39:02.138Z'
+datePublished: '2017-03-10T02:39:03.043Z'
 title: Produtividade Acelerada
 author: []
 publisher: {}
@@ -27,7 +27,7 @@ Muitas são as teorias, técnicas e ferramentas que prometem total controle do "
 
 Através do estudo de inúmeras ferramentas e métodos conseguimos modificar, criar e apagar hábitos e ter disciplina em nossas vidas. Conseguimos fazer muita mais coisas com muito menos esforço e com isso ganhar muito mais tempo para fazer o que realmente importa.
 
-Foco é importante e está cada vez mais difícil se manter focado nos dias de hoje. É tanta informação que realmente não conseguimos desligar nossas mentes e quando desligamos sentimos culpa por não obter mais informação e mais produtividade. 
+Foco é importante e está cada vez mais difícil se manter focado nos dias de hoje. É tanta informação que realmente não conseguimos desligar nossas mentes e quando desligamos sentimos culpa por não obter mais informação e mais produtividade.
 
 Acabamos por tentar ultrapassar nossos limites mentais e corporais em nossos trabalhos e lares e muitas vezes ficamos doentes mental e fisicamente devido a falta de descanso.
 
@@ -37,7 +37,7 @@ Neste curso, reunimos diversas ferramentas sob uma nova ótica para administrar 
 
 * Aprenda vários sistemas de gerenciamento de tempo e escolha o seu ou crie o seu
 * Como ter uma maior produtividade
-* O que é foco e como aprende-lo
+* O que é foco e como aprendê-lo
 * O que é produtividade
-* Como os habitos são formados
+* Como os hábitos são formados
 * Como adquirir novos hábitos
