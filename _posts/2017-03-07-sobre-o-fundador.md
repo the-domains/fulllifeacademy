@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Olá,'
-dateModified: '2017-03-09T11:07:45.647Z'
-datePublished: '2017-03-09T11:07:46.051Z'
+dateModified: '2017-03-10T02:37:47.733Z'
+datePublished: '2017-03-10T02:37:48.468Z'
 title: Sobre o Fundador
 author: []
 publisher: {}
@@ -35,8 +35,8 @@ Alem disso, a evolução e aprimoramento constante são importantes em minha vid
 **Mini-Currículo:**
 
 * Curso de Programação Neuro Linguística no IbraPNL
+* Curso de Gerencia Baseada em Relações no IbraPNL
 * Ciência da Computação na Universidade Fumec
 * Curso de formação do Método DeRose
 * Curso Terapia Tantrica do Método Deva Nishok
 * Curso de Tantra na Agama (Lovers, Rituals e Fundamentals)
-* Curso de Gerencia Baseada em Relações no IbraPNL
