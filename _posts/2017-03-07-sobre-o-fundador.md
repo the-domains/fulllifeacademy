@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Olá,'
-dateModified: '2017-03-10T02:37:55.110Z'
-datePublished: '2017-03-10T02:37:55.767Z'
+dateModified: '2017-03-10T11:31:49.513Z'
+datePublished: '2017-03-10T11:31:50.080Z'
 title: Sobre o Fundador
 author: []
 publisher: {}
@@ -16,7 +16,7 @@ _type: Article
 
 ---
 # Sobre o Fundador
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/034e34ecf5d06cc867c89ef63ed3d1d8be9dded2.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3d67e81e-1969-4fd0-914b-4367e81aad48.jpg)
 
 Olá,
 
