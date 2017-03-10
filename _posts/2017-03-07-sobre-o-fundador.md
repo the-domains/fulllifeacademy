@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Olá,'
-dateModified: '2017-03-10T02:37:47.733Z'
-datePublished: '2017-03-10T02:37:48.468Z'
+dateModified: '2017-03-10T02:37:55.110Z'
+datePublished: '2017-03-10T02:37:55.767Z'
 title: Sobre o Fundador
 author: []
 publisher: {}
@@ -39,4 +39,4 @@ Alem disso, a evolução e aprimoramento constante são importantes em minha vid
 * Ciência da Computação na Universidade Fumec
 * Curso de formação do Método DeRose
 * Curso Terapia Tantrica do Método Deva Nishok
-* Curso de Tantra na Agama (Lovers, Rituals e Fundamentals)
+* Curso de Tantra na Agama Yôga (Lovers, Rituals e Fundamentals)
