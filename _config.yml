@@ -1,5 +1,6 @@
-layout_spectrum: 0.8520606122440705
 typography_spectrum: 0.5533074481076202
+content_rating:
+  adult: false
 color:
   brandStrength: 0.9205115676754256
   lightness: 0.8469753865775937
@@ -11,9 +12,8 @@ color:
     - '#D73226'
     - '#414242'
     - '#A6A8AB'
-content_rating:
-  adult: false
 github: true
+layout_spectrum: 0.8520606122440705
 analytics:
   twitter: ''
   google: UA-93195675-1
@@ -39,6 +39,9 @@ navigation:
   - name: YouTube
     url: 'https://www.youtube.com/channel/UC9SaqyNSlScKfchf8FEH4SA'
     type: external
+  - name: Linkedin
+    url: 'https://www.linkedin.com/company-beta/16211769'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/99ee198f-247b-45a6-8fb5-020262d87978.png
 title: Full Life Academy
@@ -52,16 +55,8 @@ content:
       allowfullscreen></iframe>
     src: !<tag:yaml.org,2002:js/undefined> ''
     metadata:
-      author:
-        - name: Henrique Utsch
-          url: 'https://www.youtube.com/user/henriquetutsch'
-          avatar: {}
-      related: []
-      publisher:
-        url: 'https://www.youtube.com/'
-        name: YouTube
-        favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-        domain: www.youtube.com
+      datePublished: null
+      isBasedOnUrl: 'https://www.youtube.com/watch?v=u4_upeyFF7U'
       keywords:
         - duration
         - ilhabela
@@ -73,8 +68,13 @@ content:
         - duas
         - passagens
         - rter
-      description: Uploaded by Henrique Utsch on 2016-05-10.
-      inLanguage: en
+      related: []
+      author:
+        - name: Henrique Utsch
+          url: 'https://www.youtube.com/user/henriquetutsch'
+          avatar: {}
+      '@context': 'http://schema.org'
+      title: Por do sol Ilhabela
       '@type': VideoObject
       app_links:
         - url: 'vnd.youtube://www.youtube.com/watch?v=u4_upeyFF7U&feature=applinks'
@@ -113,10 +113,13 @@ content:
           package: '544007664'
           namespace: google
           type: ios
-      '@context': 'http://schema.org'
-      isBasedOnUrl: 'https://www.youtube.com/watch?v=u4_upeyFF7U'
-      title: Por do sol Ilhabela
-      datePublished: null
+      publisher:
+        url: 'https://www.youtube.com/'
+        name: YouTube
+        favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+        domain: www.youtube.com
+      description: Uploaded by Henrique Utsch on 2016-05-10.
+      inLanguage: en
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
