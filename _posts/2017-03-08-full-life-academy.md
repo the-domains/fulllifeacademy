@@ -6,8 +6,8 @@ description: >-
   é passar adiante conhecimentos exclusivos que talvez não encontre em outro
   lugar. Levamos o desenvolvimento pessoal a outro patamar, muito mais elevado e
   completo.
-dateModified: '2017-03-10T02:35:59.431Z'
-datePublished: '2017-03-10T02:36:00.573Z'
+dateModified: '2017-03-23T17:39:07.798Z'
+datePublished: '2017-03-23T17:39:08.738Z'
 title: ''
 author: []
 publisher: {}
@@ -22,7 +22,7 @@ _type: Blurb
 
 Após 15 anos de estudos em diversas áreas consegui reunir uma boa quantidade de ferramentas para impulsionar o ser humano a sua totalidade. Nossa proposta é passar adiante conhecimentos exclusivos que talvez não encontre em outro lugar. Levamos o desenvolvimento pessoal a outro patamar, muito mais elevado e completo.
 
-A Full Life Academy surgiu para ensinar tudo aquilo que seus pais, a escola ou a universidade não vão te ensinar. Com muito amor, inteligência, liberdade e respeito temos como foco um ser humano evoluído e preparado para ter tudo aquilo que é seu apenas por existir na terra.
+A Full Life Academy surgiu para ensinar tudo aquilo que seus pais, a escola ou a universidade talvez não tenham te ensinado. Com muito amor, inteligência, liberdade e respeito temos como foco um ser humano evoluído e preparado para ter tudo aquilo que é seu apenas por existir na terra.
 
 Uma vida longa e repleta de alegria é direito seu desde o momento em que nasceu aqui na terra até o momento em que se for. Estamos todos no mesmo nível evolutivo e você merece sim amar e ser amado, ser feliz, ganhar dinheiro, relacionar-se bem com todos a sua volta e festejar a beleza da vida que tem.
 
