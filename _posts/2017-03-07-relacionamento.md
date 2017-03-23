@@ -4,9 +4,9 @@ description: >-
   Os conflitos existem desde o início da humanidade, fazem parte do processo de
   evolução dos seres humanos e são necessários para o desenvolvimento e o
   crescimento de qualquer sistema familiar, social, político e organizacional.
-dateModified: '2017-03-09T18:52:52.124Z'
-datePublished: '2017-03-09T18:52:52.866Z'
-title: Relacionamento Intrapessoal
+dateModified: '2017-03-23T17:53:47.977Z'
+datePublished: '2017-03-23T17:53:48.847Z'
+title: Relacionamento Interpessoal
 author: []
 publisher: {}
 via: {}
@@ -18,7 +18,7 @@ _type: Blurb
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a7a5c46c-c3d6-46b2-bfce-2470a995d0fd.jpg)
 
-# Relacionamento Intrapessoal
+# Relacionamento Interpessoal
 
 Os conflitos existem desde o início da humanidade, fazem parte do processo de evolução dos seres humanos e são necessários para o desenvolvimento e o crescimento de qualquer sistema familiar, social, político e organizacional.
 
