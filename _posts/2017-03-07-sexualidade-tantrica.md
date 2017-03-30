@@ -7,8 +7,8 @@ description: >-
   ensinamentos propagaram-se, misturando-se com diversas outras culturas e
   correntes filosóficas e religiosas como o Hinduísmo, o Vedanta, o Yoga, o
   Budismo, o Taoísmo, entre outras.
-dateModified: '2017-03-09T18:48:25.289Z'
-datePublished: '2017-03-09T18:48:25.806Z'
+dateModified: '2017-03-30T23:23:31.913Z'
+datePublished: '2017-03-30T23:23:32.801Z'
 title: Sexualidade Tantrica
 author: []
 publisher: {}
@@ -33,7 +33,7 @@ O Tantra é uma filosofia comportamental desrepressora, matriarcal, sensorial or
 * O que é o Tantra
 * Kundaliní e a energia sexual
 * Como sublimar e canalizar sua energia
-* O poder dos Orgasmos e como aproveita-los
-* Rituais Tantricos
+* O poder dos Orgasmos e como aproveitá-los
+* Rituais Tântricos
 * Cumplicidade e relacionamento
 * Bioenergia
