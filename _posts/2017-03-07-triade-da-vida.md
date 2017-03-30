@@ -6,9 +6,9 @@ description: >-
   diversas para compreender o que une cada um dos corpos. Existem inúmeros
   corpos dentro de um único corpo, no entanto, esses corpos são muito sutis e
   sensíveis e com prática é possível sentir a energia emanada por cada corpo.
-dateModified: '2017-03-09T19:16:56.322Z'
-datePublished: '2017-03-09T19:16:59.155Z'
-title: Triade Vital
+dateModified: '2017-03-30T23:27:52.838Z'
+datePublished: '2017-03-30T23:27:53.455Z'
+title: Tríade Vital
 author: []
 publisher: {}
 via: {}
@@ -22,7 +22,7 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0b5d422a-d693-4a3f-bf38-8deab044dd11.jpg)
 
-# Triade Vital
+# Tríade Vital
 
 Como seria unificar corpo, mente e espírito em um único ser completo e desperto? A Tríade Vital vem como forma de equilíbrio do ser com ferramentas diversas para compreender o que une cada um dos corpos. Existem inúmeros corpos dentro de um único corpo, no entanto, esses corpos são muito sutis e sensíveis e com prática é possível sentir a energia emanada por cada corpo.
 
@@ -37,7 +37,7 @@ Mas na verdade o que define um corpo físico, um mental e um espiritual? Como to
 * Alimentação
 * Tipos de alimentação
 * Os alimentos emocionais e suas funções
-* Tipos de corpos e suas funçoes
+* Tipos de corpos e suas funções
 * O que é ter saúde
 * Como manter uma saúde plena
 * Como o corpo se conecta com a mente
@@ -45,20 +45,20 @@ Mas na verdade o que define um corpo físico, um mental e um espiritual? Como to
 **Mente**
 
 * Funcionamento da mente
-* Como sao formados pensamentos
+* Como são formados pensamentos
 * Como funcionam os dois hemisférios cerebrais
-* Frequencias cerebrais e como induzi-las
-* Meditaçoes ativas e passivas e qual utilizar
+* Frequências cerebrais e como induzi-las
+* Meditações ativas e passivas e qual utilizar
 * O processo do sono e seus ciclos
 * Sonos lúcidos
 * Outras maneiras de dormir
 * Como funciona a linguagem
 
-**Espirito**
+**Espírito**
 
 * Meditação para o espírito
 * Sistema de Chakras
-* Kundaliní e espirito
+* Kundaliní e espírito
 * Religiões e base de crenças
 
 ---
