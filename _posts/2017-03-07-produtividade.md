@@ -5,10 +5,10 @@ description: >-
   “tempo”. Parte desse arsenal é herança de uma abordagem da Era Industrial,
   onde a produção era medida em tempo. Do outro lado, surgiram visões mais
   amplas para tratar de planejamentos complexos. Mas como conciliar a correria
-  do dia-a-dia com uma visão ampla de longo prazo? É possível conciliar seu
+  do dia a dia com uma visão ampla de longo prazo? É possível conciliar seu
   tempo entre trabalho e família?
-dateModified: '2017-03-10T02:39:02.138Z'
-datePublished: '2017-03-10T02:39:03.043Z'
+dateModified: '2017-03-30T23:17:37.642Z'
+datePublished: '2017-03-30T23:17:38.473Z'
 title: Produtividade Acelerada
 author: []
 publisher: {}
@@ -23,9 +23,9 @@ _type: Blurb
 
 # Produtividade Acelerada
 
-Muitas são as teorias, técnicas e ferramentas que prometem total controle do "tempo". Parte desse arsenal é herança de uma abordagem da Era Industrial, onde a produção era medida em tempo. Do outro lado, surgiram visões mais amplas para tratar de planejamentos complexos. Mas como conciliar a correria do dia-a-dia com uma visão ampla de longo prazo? É possível conciliar seu tempo entre trabalho e família?
+Muitas são as teorias, técnicas e ferramentas que prometem total controle do "tempo". Parte desse arsenal é herança de uma abordagem da Era Industrial, onde a produção era medida em tempo. Do outro lado, surgiram visões mais amplas para tratar de planejamentos complexos. Mas como conciliar a correria do dia a dia com uma visão ampla de longo prazo? É possível conciliar seu tempo entre trabalho e família?
 
-Através do estudo de inúmeras ferramentas e métodos conseguimos modificar, criar e apagar hábitos e ter disciplina em nossas vidas. Conseguimos fazer muita mais coisas com muito menos esforço e com isso ganhar muito mais tempo para fazer o que realmente importa.
+Através do estudo de inúmeras ferramentas e métodos conseguimos modificar, criar e apagar hábitos e ter disciplina em nossas vidas. Conseguimos fazer muito mais coisas com muito menos esforço e com isso ganhar muito mais tempo para fazer o que realmente importa.
 
 Foco é importante e está cada vez mais difícil se manter focado nos dias de hoje. É tanta informação que realmente não conseguimos desligar nossas mentes e quando desligamos sentimos culpa por não obter mais informação e mais produtividade.
 
