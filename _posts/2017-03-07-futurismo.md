@@ -11,8 +11,8 @@ description: >-
   mobilidade urbana não fica atrás: o transporte é feito em cápsulas
   subterrâneas. Tudo isso e muito mais usando energia solar como base ao invés
   do petróleo.
-dateModified: '2017-03-09T19:11:42.568Z'
-datePublished: '2017-03-09T19:11:43.169Z'
+dateModified: '2017-03-30T23:22:44.455Z'
+datePublished: '2017-03-30T23:22:45.223Z'
 title: Futurismo
 author: []
 publisher: {}
@@ -31,7 +31,7 @@ Uma cidade inteligente. Esta é Masdar, nos Emirados Árabes. Pensada para ser o
 
 Conteúdo Programático:
 
-* Como será o futuro?
+* Como será o futuro
 * Tecnologias que estão surgindo
 * Tecnologias de hoje
 * Como as novas tecnologias impactaram no passado
