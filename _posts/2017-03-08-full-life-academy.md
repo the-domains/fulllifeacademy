@@ -6,8 +6,8 @@ description: >-
   Nossa proposta é passar adiante conhecimentos exclusivos que talvez não venham
   a ser encontrados em outro lugar. Levamos o desenvolvimento pessoal a outro
   patamar, muito mais elevado e completo.
-dateModified: '2017-03-30T23:32:15.136Z'
-datePublished: '2017-03-30T23:32:16.777Z'
+dateModified: '2017-03-30T23:33:19.875Z'
+datePublished: '2017-03-30T23:33:20.421Z'
 title: ''
 author: []
 publisher: {}
