@@ -48,6 +48,9 @@ navigation:
   - name: Sobre o Fundador
     url: 'http://henriqueutsch.com.br'
     type: external
+  - name: Instagram
+    url: 'https://www.instagram.com/fulllifeacademy/'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/99ee198f-247b-45a6-8fb5-020262d87978.png
 title: Full Life Academy
