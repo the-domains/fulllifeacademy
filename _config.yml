@@ -33,6 +33,9 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 navigation:
+  - name: Sobre o Fundador
+    url: 'http://henriqueutsch.com.br'
+    type: external
   - name: Facebook
     url: 'https://www.facebook.com/FullLifeAcademyCourse/'
     type: external
@@ -47,9 +50,6 @@ navigation:
     type: external
   - name: Instagram
     url: 'https://www.instagram.com/fulllifeacademy/'
-    type: external
-  - name: Sobre o Fundador
-    url: 'http://henriqueutsch.com.br'
     type: external
   - name: Blog
     url: 'http://blog.fulllifeacademy.com.br'
