@@ -3,15 +3,15 @@ inFeed: true
 description: >-
   Se você quer viver uma vida mais realizada, primeiro você terá que despertar
   seu potencial, descobrir quem você realmente é. 
-dateModified: '2017-04-07T16:10:26.678Z'
-datePublished: '2017-04-07T16:10:27.407Z'
+dateModified: '2017-04-07T16:11:00.048Z'
+datePublished: '2017-04-07T16:11:00.259Z'
 title: Meditação Ativa
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-04-07-meditacao-ativa.md
 starred: false
 datePublishedOriginal: '2017-04-07T16:10:27.407Z'
-sourcePath: _posts/2017-04-07-meditacao-ativa.md
 _type: Blurb
 
 ---
