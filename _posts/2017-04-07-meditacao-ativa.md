@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Se você quer viver uma vida mais realizada, primeiro você terá que despertar
   seu potencial, descobrir quem você realmente é.
-dateModified: '2017-04-07T21:25:24.257Z'
-datePublished: '2017-04-07T21:25:25.513Z'
+dateModified: '2017-04-07T21:26:33.966Z'
+datePublished: '2017-04-07T21:26:34.662Z'
 title: Meditação Ativa
 author: []
 publisher: {}
@@ -18,15 +18,27 @@ _type: Article
 
 ---
 # Meditação Ativa
+
+# Meditação Ativa
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ad10a744-51a8-4948-a22c-e9c0c42dd173.jpg)
+
+Se você quer viver uma vida mais realizada, primeiro você terá que despertar seu potencial, descobrir quem você realmente é.
 
 Se você quer viver uma vida mais realizada, primeiro você terá que despertar seu potencial, descobrir quem você realmente é.
 
 Meditação é o caminho para esse despertar. É a metodologia do saber da consciência.
 
+Meditação é o caminho para esse despertar. É a metodologia do saber da consciência.
+
+Muitas técnicas de meditação exigem que nos sentemos quietos e silenciosos. Mas para a maioria de nós o estresse acumulado em nosso corpo/mente torna isso difícil. Antes de esperarmos poder acessar nossa casa da energia interior da consciência, precisamos liberar nossas tensões.
+
 Muitas técnicas de meditação exigem que nos sentemos quietos e silenciosos. Mas para a maioria de nós o estresse acumulado em nosso corpo/mente torna isso difícil. Antes de esperarmos poder acessar nossa casa da energia interior da consciência, precisamos liberar nossas tensões.
 
 As técnicas de meditação ativa compreendem estágios iniciais com atividades físicas que variam entre um chacoalhar, uma respiração, uma dança e terminam com 15 minutos de relaxamento e silêncio. O praticante experiência um tremendo contraste entre a energia da vigorosa atividade física e a quietude e o silêncio.
+
+As técnicas de meditação ativa compreendem estágios iniciais com atividades físicas que variam entre um chacoalhar, uma respiração, uma dança e terminam com 15 minutos de relaxamento e silêncio. O praticante experiência um tremendo contraste entre a energia da vigorosa atividade física e a quietude e o silêncio.
+
+**Conteúdo Programático:**
 
 **Conteúdo Programático:**
 
@@ -36,12 +48,27 @@ As técnicas de meditação ativa compreendem estágios iniciais com atividades 
 * Porque devo meditar
 * O que é meditação
 
+* Meditações Ativas
+* Meditações Passivas
+* Meditações Conduzidas
+* Porque devo meditar
+* O que é meditação
+
+## Próximo evento
+
 ## Próximo evento
 
 Local: Amadoria -- Rua Capitão Procópio, 18 -- Santa Teresa -- Belo Horizonte  
 Data: 10/05  
 Horário: 19hrs  
 Investimento: R$40,00
+
+Local: Amadoria -- Rua Capitão Procópio, 18 -- Santa Teresa -- Belo Horizonte  
+Data: 10/05  
+Horário: 19hrs  
+Investimento: R$40,00
+
+Os 10 primeiros ganham 50% com o código: **MAISAMOR**
 
 Os 10 primeiros ganham 50% com o código: **MAISAMOR**
 [Clique aqui e compre pelo sympla][0]
