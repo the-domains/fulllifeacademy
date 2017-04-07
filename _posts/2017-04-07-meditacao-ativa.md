@@ -4,7 +4,7 @@ description: >-
   Se você quer viver uma vida mais realizada, primeiro você terá que despertar
   seu potencial, descobrir quem você realmente é.
 dateModified: '2017-04-07T21:26:33.966Z'
-datePublished: '2017-04-07T21:26:34.662Z'
+datePublished: '2017-04-07T21:26:34.663Z'
 title: Meditação Ativa
 author: []
 publisher: {}
