@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Se você quer viver uma vida mais realizada, primeiro você terá que despertar
   seu potencial, descobrir quem você realmente é.
-dateModified: '2017-04-07T21:13:30.646Z'
-datePublished: '2017-04-07T21:13:31.349Z'
+dateModified: '2017-04-07T21:17:25.803Z'
+datePublished: '2017-04-07T21:17:26.862Z'
 title: Meditação Ativa
 author: []
 publisher: {}
@@ -45,10 +45,9 @@ Local: Amadoria -- Rua Capitão Procópio, 18 -- Santa Teresa -- Belo HorizonteD
 Horário: 19hrs  
 Compre ingresso pelo Sympla
 
-<article style=""><img src="https://d1gkntzr8mxq7s.cloudfront.net/58e7fd4f2c947.png" /><h1>Meditações Ativas - Full Life Academy</h1><p>Meditações Ativas - Full Life Academy Quarta, 10 de maio de 2017, 19h-21h</p></article>
+<article style=""><h1>Meditações Ativas - Full Life Academy</h1><p>Meditações Ativas - Full Life Academy Quarta, 10 de maio de 2017, 19h-21h</p></article>
 
-Os 10 primeiros ganham 50% com o código: **MAISAMOR**
-
+Os 10 primeiros ganham 50% com o código: **MAISAMOR**  
 Evento Facebook
 
-> Se você quer viver uma vida mais realizada, primeiro você terá que despertar seu potencial, descobrir quem você realmente é. Meditação é o caminho para esse despertar. É a metodologia do saber da consciência. Muitas técnicas de meditação exigem que nos sentemos quietos e silenciosos.
+https://www.facebook.com/events/227434877736687/
