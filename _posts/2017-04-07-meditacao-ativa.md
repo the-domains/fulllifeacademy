@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Se você quer viver uma vida mais realizada, primeiro você terá que despertar
   seu potencial, descobrir quem você realmente é.
-dateModified: '2017-04-07T21:20:29.868Z'
-datePublished: '2017-04-07T21:20:30.608Z'
+dateModified: '2017-04-07T21:25:24.257Z'
+datePublished: '2017-04-07T21:25:25.513Z'
 title: Meditação Ativa
 author: []
 publisher: {}
@@ -36,10 +36,16 @@ As técnicas de meditação ativa compreendem estágios iniciais com atividades 
 * Porque devo meditar
 * O que é meditação
 
-Compre ingresso pelo Sympla
+## Próximo evento
 
+Local: Amadoria -- Rua Capitão Procópio, 18 -- Santa Teresa -- Belo Horizonte  
+Data: 10/05  
+Horário: 19hrs  
 Investimento: R$40,00
 
-<article style=""><h1>Meditações Ativas - Full Life Academy</h1><p>Meditações Ativas - Full Life Academy Quarta, 10 de maio de 2017, 19h-21h Amadoria – Rua Capitão Procópio, 18 – Santa Teresa – Belo Horizonte</p></article>
-
 Os 10 primeiros ganham 50% com o código: **MAISAMOR**
+[Clique aqui e compre pelo sympla][0]
+[Evento no Facebook][1]
+
+[0]: https://www.sympla.com.br/meditacoes-ativas---full-life-academy__133363
+[1]: https://www.facebook.com/events/227434877736687/
