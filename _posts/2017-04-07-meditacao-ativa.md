@@ -2,9 +2,9 @@
 inFeed: true
 description: >-
   Se você quer viver uma vida mais realizada, primeiro você terá que despertar
-  seu potencial, descobrir quem você realmente é. 
-dateModified: '2017-04-07T16:11:00.048Z'
-datePublished: '2017-04-07T16:11:00.259Z'
+  seu potencial, descobrir quem você realmente é.
+dateModified: '2017-04-07T16:19:42.245Z'
+datePublished: '2017-04-07T16:19:43.025Z'
 title: Meditação Ativa
 author: []
 publisher: {}
@@ -16,11 +16,11 @@ _type: Blurb
 
 ---
 # Meditação Ativa
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa79a82d-ab28-44fa-a5de-08e79239217f.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4d9a6f43-5fe1-4a2c-a57b-7b9fc2276960.png)
 
-Se você quer viver uma vida mais realizada, primeiro você terá que despertar seu potencial, descobrir quem você realmente é. 
+Se você quer viver uma vida mais realizada, primeiro você terá que despertar seu potencial, descobrir quem você realmente é.
 
-Meditação é o caminho para esse despertar. É a metodologia do saber da consciência. 
+Meditação é o caminho para esse despertar. É a metodologia do saber da consciência.
 
 Muitas técnicas de meditação exigem que nos sentemos quietos e silenciosos. Mas para a maioria de nós o estresse acumulado em nosso corpo/mente torna isso difícil. Antes de esperarmos poder acessar nossa casa da energia interior da consciência, precisamos liberar nossas tensões.
 
