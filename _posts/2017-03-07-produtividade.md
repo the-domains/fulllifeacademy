@@ -7,8 +7,8 @@ description: >-
   amplas para tratar de planejamentos complexos. Mas como conciliar a correria
   do dia a dia com uma visão ampla de longo prazo? É possível conciliar seu
   tempo entre trabalho e família?
-dateModified: '2017-04-08T19:46:55.509Z'
-datePublished: '2017-04-08T19:46:55.872Z'
+dateModified: '2017-04-08T20:02:22.648Z'
+datePublished: '2017-04-08T20:02:23.080Z'
 title: Produtividade Acelerada
 author: []
 publisher: {}
