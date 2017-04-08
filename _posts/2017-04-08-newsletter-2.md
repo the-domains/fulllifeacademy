@@ -1,0 +1,22 @@
+---
+inFeed: true
+description: Assine nossas novidades
+dateModified: '2017-04-08T20:02:01.964Z'
+datePublished: '2017-04-08T20:02:03.268Z'
+title: Newsletter 2
+author: []
+publisher: {}
+via: {}
+isBasedOnUrl: >-
+  https://the-grid.github.io/ed-userhtml/?g=eJyNUsFuwjAMvfMVFpcUpCU7A-WwsdNgmjRu0w5e4kJQk1RNylZN-_clFI0yOMyHyEn8nu1nz7ysdRUgtBXlw0CfQexwj93rcD4YQDQxHsN6qz14kkE7C9F1tmzBEilS0ZcEFdVQ4YZAF2DQNljGAOmqVtsNjMfiwBT_spTKFbDCJmj5snhcOkwkeQ6ssYoKbUmxEXwdAMn2WF9GQ6gbmp7FbAkV9CwH5WRjyAa-ofBQUnL9XbvGzRMaylgCsNHr7ds5z1GSazyyJgx0pMpYF8lGJ3z3wlOPPTz7Iyy7APha9hOybQiVnwhRNGVZ6oJQxrZNy81BB24piM4VhpRGsfPH-03hasN3_jJFnJj7FSiHorGHYWZ9qZP9Sh0RSe2s1973yU3icawqsup-q0uVdWlG0ytzWziD2v6vL3aNYIlxiVLV56Uy37wbHUJcsRV5H7ePTWD4XBJ6gg_UgXM-PBU_6M6Z6EqdD34AryrjrA
+starred: false
+datePublishedOriginal: '2017-04-08T20:02:03.268Z'
+sourcePath: _posts/2017-04-08-newsletter-2.md
+_type: MediaObject
+
+---
+# Newsletter 2
+
+Assine nossas novidades
+
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyNUsFuwjAMvfMVFpcUpCU7A-WwsdNgmjRu0w5e4kJQk1RNylZN-_clFI0yOMyHyEn8nu1nz7ysdRUgtBXlw0CfQexwj93rcD4YQDQxHsN6qz14kkE7C9F1tmzBEilS0ZcEFdVQ4YZAF2DQNljGAOmqVtsNjMfiwBT_spTKFbDCJmj5snhcOkwkeQ6ssYoKbUmxEXwdAMn2WF9GQ6gbmp7FbAkV9CwH5WRjyAa-ofBQUnL9XbvGzRMaylgCsNHr7ds5z1GSazyyJgx0pMpYF8lGJ3z3wlOPPTz7Iyy7APha9hOybQiVnwhRNGVZ6oJQxrZNy81BB24piM4VhpRGsfPH-03hasN3_jJFnJj7FSiHorGHYWZ9qZP9Sh0RSe2s1973yU3icawqsup-q0uVdWlG0ytzWziD2v6vL3aNYIlxiVLV56Uy37wbHUJcsRV5H7ePTWD4XBJ6gg_UgXM-PBU_6M6Z6EqdD34AryrjrA" height="244" style=""></iframe>
