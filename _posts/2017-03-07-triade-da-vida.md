@@ -6,8 +6,8 @@ description: >-
   diversas para compreender o que une cada um dos corpos. Existem inúmeros
   corpos dentro de um único corpo, no entanto, esses corpos são muito sutis e
   sensíveis e com prática é possível sentir a energia emanada por cada corpo.
-dateModified: '2017-04-08T19:46:55.509Z'
-datePublished: '2017-04-08T19:46:55.934Z'
+dateModified: '2017-04-08T20:02:22.648Z'
+datePublished: '2017-04-08T20:02:23.066Z'
 title: Tríade Vital
 author: []
 publisher: {}
