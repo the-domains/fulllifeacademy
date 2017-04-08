@@ -6,8 +6,8 @@ description: >-
   em empresas. Saiba como e quando investir em renda fica, títulos públicos e
   previdência privada.Cada aula trata de um assunto fundamental para você saber
   qual a melhor decisão tomar para cuidar de seus investimentos.
-dateModified: '2017-04-08T19:46:55.509Z'
-datePublished: '2017-04-08T19:46:55.858Z'
+dateModified: '2017-04-08T20:02:22.648Z'
+datePublished: '2017-04-08T20:02:23.112Z'
 title: Independencia Financeira
 author: []
 publisher: {}
