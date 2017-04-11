@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Assine nossas novidades
-dateModified: '2017-04-11T23:48:54.917Z'
-datePublished: '2017-04-11T23:48:56.344Z'
+dateModified: '2017-04-11T23:49:43.567Z'
+datePublished: '2017-04-11T23:49:44.239Z'
 title: Newsletter
 author: []
 publisher: {}
@@ -19,4 +19,4 @@ _type: MediaObject
 
 Assine nossas novidades
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwlzTEOwyAMAMCvWDwAp-rQBfhHRxpMQYIYGaMov2-ljDedq1liJ5iye4OYV2utZop7TNQv2-PSutuDFDNLx4eBsyYt3ry2zUCh-i3qzfOP4EZ48xL4CJ-TBBLThIMV5hqDReGupnU4gsNb4QdKkixs" height="310" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwlzTEOwyAMQNGrWD5AoOrQBRh6i44UTEGCGBlQlNtXbca3_G9KEt8IhgSLSqVVay2JfPCR2rk1v2YJ205TJZambghHiTNbfGiNkKl88rR4_-EferJEEosanenuxUvgLXwMEohMA3aeMFbvLBOu9diM6s6oS-4LItYxpg" height="310" style=""></iframe>
