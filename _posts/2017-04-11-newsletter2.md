@@ -1,0 +1,20 @@
+---
+inFeed: true
+description: Newsletter2
+dateModified: '2017-04-11T23:58:22.999Z'
+datePublished: '2017-04-11T23:58:23.972Z'
+title: ''
+author: []
+publisher: {}
+via: {}
+isBasedOnUrl: >-
+  https://the-grid.github.io/ed-userhtml/?g=eJyNUj1v4zAM3fMriCxygla6ua079GNqUhxw3Q43sBLtKLAkQx9BjcP995PioHGaDOUgUBLfI_nIuyC97iPEoad6Hukjii3ucHyd389mkE0sl_C20QECyaidhew62w1giRSp7EuCnjz02BLoBgzahF0OkK4ftG1huRR7pvxXlVSugTWmqOWvp5eVw0JS18CSVdRoS4ot4O8eUGyH_jwaok90exKzIVQwsRqUk8mQjbyl-NxRccPD8IbtKxqqWAGwxe8ff055DpJc4pGeMNKBqmJjJFsc8eMLLz1O8OyLsOwMELycJmSbGPtwI0STuq7TDaHMbZuBm70O3FIUoysMKY1iGw7368Z5w7fhPEWemPsUqIYm2f0wq6nUxT6lzoiidjVp79_RLeJx7Huy6nGjO1WNaRa3F-b25Axq-72-2CWCFeYlKlWflspCejc6xrxiawohbx-7gflP56HBnfNXgG1Cr4hzPj_2MBvPOzFWfD_7Dwzu5hE
+starred: false
+datePublishedOriginal: '2017-04-11T23:58:23.972Z'
+sourcePath: _posts/2017-04-11-newsletter2.md
+_type: MediaObject
+
+---
+Newsletter2
+
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyNUj1v4zAM3fMriCxygla6ua079GNqUhxw3Q43sBLtKLAkQx9BjcP995PioHGaDOUgUBLfI_nIuyC97iPEoad6Hukjii3ucHyd389mkE0sl_C20QECyaidhew62w1giRSp7EuCnjz02BLoBgzahF0OkK4ftG1huRR7pvxXlVSugTWmqOWvp5eVw0JS18CSVdRoS4ot4O8eUGyH_jwaok90exKzIVQwsRqUk8mQjbyl-NxRccPD8IbtKxqqWAGwxe8ff055DpJc4pGeMNKBqmJjJFsc8eMLLz1O8OyLsOwMELycJmSbGPtwI0STuq7TDaHMbZuBm70O3FIUoysMKY1iGw7368Z5w7fhPEWemPsUqIYm2f0wq6nUxT6lzoiidjVp79_RLeJx7Huy6nGjO1WNaRa3F-b25Axq-72-2CWCFeYlKlWflspCejc6xrxiawohbx-7gflP56HBnfNXgG1Cr4hzPj_2MBvPOzFWfD_7Dwzu5hE" height="244" style=""></iframe>
