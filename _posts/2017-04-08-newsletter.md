@@ -1,21 +1,23 @@
 ---
 inFeed: true
 description: Assine nossas novidades
-dateModified: '2017-04-28T00:30:30.128Z'
-datePublished: '2017-04-28T00:30:30.732Z'
+dateModified: '2017-04-28T00:30:45.905Z'
+datePublished: '2017-04-28T00:30:46.535Z'
 title: Newsletter
 author: []
 publisher: {}
 via: {}
-isBasedOnUrl: >-
-  https://the-grid.github.io/ed-userhtml/?g=eJwlzTEOwyAMAMCvWDwAp-pK-EdHCqYgQYyMUdTfZ2C86VzNEjrBlHgaxLxaazVTiCFR_9seltZoL1LMLB1fBu6atJzmfRwGCtVf0Q3vhv_wEvgK35MEEtOEixXmGoNFYVfTOhze4ZZ_AElyLGg
 sourcePath: _posts/2017-04-08-newsletter.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-04-08T19:46:37.608Z'
-_type: MediaObject
+url: newsletter/index.html
+_type: Article
 
 ---
 # Newsletter
+
+---
 
 Assine nossas novidades
 
