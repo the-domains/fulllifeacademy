@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Assine nossas novidades
-dateModified: '2017-04-28T00:30:45.905Z'
-datePublished: '2017-04-28T00:30:46.535Z'
+dateModified: '2017-04-28T00:32:20.374Z'
+datePublished: '2017-04-28T00:32:21.021Z'
 title: Newsletter
 author: []
 publisher: {}
@@ -16,8 +16,6 @@ _type: Article
 
 ---
 # Newsletter
-
----
 
 Assine nossas novidades
 
