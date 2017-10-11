@@ -3,9 +3,9 @@ inFeed: true
 description: >-
   Se você quer viver uma vida mais realizada, primeiro você terá que despertar
   seu potencial, descobrir quem você realmente é.
-dateModified: '2017-04-20T19:23:08.359Z'
-datePublished: '2017-04-20T19:23:09.249Z'
-title: Meditação Ativa
+dateModified: '2017-10-11T17:41:28.643Z'
+datePublished: '2017-10-11T17:41:29.925Z'
+title: Full Meditation
 author: []
 publisher: {}
 via: {}
@@ -17,8 +17,8 @@ url: meditacao-ativa/index.html
 _type: Article
 
 ---
-# Meditação Ativa
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ad10a744-51a8-4948-a22c-e9c0c42dd173.jpg)
+# Full Meditation
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f94db42a-4040-488d-b905-e38d9a7a8b16.jpg)
 
 Se você quer viver uma vida mais realizada, primeiro você terá que despertar seu potencial, descobrir quem você realmente é.
 
@@ -30,24 +30,33 @@ As técnicas de meditação ativa compreendem estágios iniciais com atividades 
 
 **Conteúdo Programático:**
 
-* Meditações Ativas
-* Meditações Passivas
-* Meditações Conduzidas
-* Porque devo meditar
 * O que é meditação
+* Kundaliní
+* O que são Chakras
+* Samadhi ou Nirvana
+* Níveis do Samádhi
+* Obstáculos da meditação
+* Benefícios da meditação
+* O processo de dispersão da mente
+* PNL e posições perceptivas na meditação
+* VAKOG, estratégias e os seus sentidos
+* Física Quântica e uma noção do tempo
+* Karma (Ação e Reação)
+* Meditações do yoga
+* Quem sou eu?
+* Graus de Meditação
+* Mestres da Meditação
 
 ---
 
 ## Próximo evento
 
-Local: Amadoria -- Rua Capitão Procópio, 18 -- Santa Teresa -- Belo Horizonte  
-Data: 22/06  
-Horário: 19hrs  
-Investimento: R$30,00
-
-Os 10 primeiros ganham R$10,00 de desconto com o código: **MAISAMOR**
+Local: Kaya Terapias -- R. Pouso Alto, 199 - Serra, Belo Horizonte  
+Datas: 7/11, 9/11,14/11,16/11,21/11,23/11,28/11 e 30/118  
+Encontros toda Terça e Quinta das 19h as 22:40  
+Valor: R$400,00
 [Clique aqui e compre pelo sympla][0]
 [Evento no Facebook][1]
 
-[0]: https://www.sympla.com.br/meditacoes-ativas---full-life-academy__133363
+[0]: https://www.sympla.com.br/full-meditation---full-life-academy__201813
 [1]: https://www.facebook.com/events/1803713896613507/
