@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: "O curso Full Meditation\_são um conjunto de vivências que buscam te levar a um estado elevado de consciência. Utilizando várias técnicas e estilos de meditação diferentes, compreendemos que cada indivíduo possui uma maneira própria de perceber o mundo e alcançar tal estado de consciência."
-dateModified: '2017-10-24T10:11:47.234Z'
-datePublished: '2017-10-24T10:11:48.035Z'
+dateModified: '2017-10-24T10:12:22.495Z'
+datePublished: '2017-10-24T10:12:22.659Z'
 title: Curso Full Meditation
 author:
   - name: Centro Metamorfose
@@ -16,8 +16,8 @@ publisher:
 via: {}
 hasPage: true
 sourcePath: _posts/2017-10-24-curso-full-meditation.md
+datePublishedOriginal: '2017-10-24T10:12:22.659Z'
 starred: false
-datePublishedOriginal: '2017-10-24T10:04:19.589Z'
 url: curso-full-meditation/index.html
 _type: Article
 
