@@ -1,16 +1,23 @@
 ---
 inFeed: true
 description: "O curso Full Meditation\_são um conjunto de vivências que buscam te levar a um estado elevado de consciência. Utilizando várias técnicas e estilos de meditação diferentes, compreendemos que cada indivíduo possui uma maneira própria de perceber o mundo e alcançar tal estado de consciência."
-dateModified: '2017-10-24T10:04:18.449Z'
-datePublished: '2017-10-24T10:04:19.589Z'
+dateModified: '2017-10-24T10:11:47.234Z'
+datePublished: '2017-10-24T10:11:48.035Z'
 title: Curso Full Meditation
-author: []
-publisher: {}
+author:
+  - name: Centro Metamorfose
+    url: 'https://www.youtube.com/user/centrometamorfose'
+    avatar: {}
+publisher:
+  url: 'https://www.youtube.com/'
+  name: YouTube
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vfl8qSV2F.ico'
+  domain: www.youtube.com
 via: {}
 hasPage: true
+sourcePath: _posts/2017-10-24-curso-full-meditation.md
 starred: false
 datePublishedOriginal: '2017-10-24T10:04:19.589Z'
-sourcePath: _posts/2017-10-24-curso-full-meditation.md
 url: curso-full-meditation/index.html
 _type: Article
 
@@ -18,9 +25,11 @@ _type: Article
 # Curso Full Meditation
 
 O curso Full Meditation são um conjunto de vivências que buscam te levar a um estado elevado de consciência. Utilizando várias técnicas e estilos de meditação diferentes, compreendemos que cada indivíduo possui uma maneira própria de perceber o mundo e alcançar tal estado de consciência.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b756c6a3-c9d3-47bb-a600-c9bd69ce9579.jpg)
+
+<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FGxFT9u1b87g%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DGxFT9u1b87g&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FGxFT9u1b87g%2Fhqdefault.jpg&amp;key=a715cf41cc93453ca338d350cd26f87b&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
 
 Como valorizamos a independência, individualidade e a liberdade, nossas meditações servem principalmente para aqueles que tem dificuldades de meditar através das meditações tradicionais.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b756c6a3-c9d3-47bb-a600-c9bd69ce9579.jpg)
 
 * Você adquire independencia para experimentar vários tipos de meditação.
 * Você experimenta meditações tântricas.
