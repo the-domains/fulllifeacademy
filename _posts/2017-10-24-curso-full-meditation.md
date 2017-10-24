@@ -5,8 +5,8 @@ description: >-
   estado elevado de consciência. Utilizando várias técnicas e estilos de
   meditação diferentes, compreendemos que cada indivíduo possui uma maneira
   própria de perceber o mundo e alcançar tal estado de consciência.
-dateModified: '2017-10-24T10:36:54.423Z'
-datePublished: '2017-10-24T10:36:55.220Z'
+dateModified: '2017-10-24T10:36:55.920Z'
+datePublished: '2017-10-24T10:36:56.386Z'
 title: Curso Full Meditation
 author:
   - name: Centro Metamorfose
