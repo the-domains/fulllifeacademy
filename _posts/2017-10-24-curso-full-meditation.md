@@ -5,8 +5,8 @@ description: >-
   estado elevado de consciência. Utilizando várias técnicas e estilos de
   meditação diferentes, compreendemos que cada indivíduo possui uma maneira
   própria de perceber o mundo e alcançar tal estado de consciência.
-dateModified: '2017-10-24T10:25:14.467Z'
-datePublished: '2017-10-24T10:25:15.161Z'
+dateModified: '2017-10-24T10:36:22.335Z'
+datePublished: '2017-10-24T10:36:23.393Z'
 title: Curso Full Meditation
 author:
   - name: Centro Metamorfose
@@ -47,3 +47,5 @@ Durante o curso teremos um lanche muito gostoso e uma apostila completa com toda
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/20aed1c6-e326-4023-9f90-1b29cdcfdd96.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/97368c7b-f4be-4501-a675-18d9ec96f367.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a435ab04-8b3c-466e-8639-259e6f4aa8a4.jpg)
+
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwlzTEOwyAMAMCvWDwAR-1K-EdHCqYgQYyMUdTfZ2C86VzNEjrBlHgaxLxaazVTiCFR_9seltZoL1LMLB1fBu6atJzmfRwGCtVf0Q3vhv_wEvgK35MEEtOEixXmGoNFYVfTOhze4ZZ_AEnELGk" height="244" style=""></iframe>
