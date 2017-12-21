@@ -1,8 +1,13 @@
 ---
 inFeed: true
-description: "SwáSthya Yôga é o nome da sistematização do Yôga Antigo, método que\_alcançou grande notabilidade, pois representa o reconhecimento de uma estirpe muito mais ancestral do que o Yôga Clássico. É a sistematização da linhagem Dakshinacharatántrika-Niríshwarasámkhya Yôga, pré-clássica, pré-ariana, pré-vêdica e proto-histórica."
-dateModified: '2017-12-21T20:16:14.797Z'
-datePublished: '2017-12-21T20:16:16.623Z'
+description: >-
+  SwáSthya Yôga é o nome da sistematização do Yôga Antigo, método que alcançou
+  grande notabilidade, pois representa o reconhecimento de uma estirpe muito
+  mais ancestral do que o Yôga Clássico. É a sistematização da linhagem
+  Dakshinacharatántrika-Niríshwarasámkhya Yôga, pré-clássica, pré-ariana,
+  pré-vêdica e proto-histórica.
+dateModified: '2017-12-21T20:21:57.885Z'
+datePublished: '2017-12-21T20:21:58.949Z'
 title: Yôga Tântrico
 author: []
 publisher: {}
@@ -24,11 +29,11 @@ O fato é que jamais alguém se deteve a estudar o Yôga primitivo do povo dráv
 
 O SwáSthya tem três características principais:
 
-A. sua prática extremamente completa, em oito módulos;  
-B. a introdução do conceito das regras gerais de execução;  
-C. a execução das técnicas (ásanas, mudrás, bandhas etc.), formando seqüências encadeadas ou coreográficas.
+1\. sua prática extremamente completa, em oito módulos;  
+2\. a introdução do conceito das regras gerais de execução;  
+3\. a execução das técnicas (ásanas, mudrás, bandhas etc.), formando seqüências encadeadas ou coreográficas.
 
-A. A prática regular em oito partes denomina-se ashtánga sádhana e é constituída por:
+1\. A prática regular em oito partes denomina-se ashtánga sádhana e é constituída por:
 
 1\. **mudrá** (gesto reflexológico feito com as mãos);  
 2\. **pújá** (retribuição ética de energia);  
@@ -39,11 +44,9 @@ A. A prática regular em oito partes denomina-se ashtánga sádhana e é constit
 7\. **yôganidrá** (técnica de descontração);  
 8\. **samyama** (concentração, meditação e samádhi)
 
-B. Com a sistematização do SwáSthya, pela primeira vez na História aparece referência a regras gerais de execução em um livro de Yôga. São regras de respiração, de permanência, de repetição, de localização da consciência e mentalização. Consulte as regras no livro Tratado de Yôga.
+2\. Com a sistematização do SwáSthya, pela primeira vez na História aparece referência a regras gerais de execução em um livro de Yôga. São regras de respiração, de permanência, de repetição, de localização da consciência e mentalização. Consulte as regras no livro Tratado de Yôga.
 
-C. Resgatando uma forma primitiva, perdida na noite dos tempos, é reintroduzida a execução sem repetição e com passagens que estabelecem encadeamentos, constituem movimentos de ligação entre as técnicas, permitindo melhor fluidez, numa seqüência que se convencionou chamar de coreografia.
-
-****
+3\. Resgatando uma forma primitiva, perdida na noite dos tempos, é reintroduzida a execução sem repetição e com passagens que estabelecem encadeamentos, constituem movimentos de ligação entre as técnicas, permitindo melhor fluidez, numa seqüência que se convencionou chamar de coreografia.
 
 **Mecânica pela qual o nosso método se processa:**
 
@@ -76,4 +79,4 @@ Aula experimental quarta 7:30
 
 **Agende uma aula experimental**
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwlzTEOwyAMAMCvWDwAR2pHwj86UjAFCWJkjKL-PgPjTedqltAJpsTTIObVWquZQgyJ-t_2sLRGe5FiZun4NnDXpOU0r-MwUKj-im54N_yHl8BX-J4kkJgmXKww1xgsCrua1uHwDrf8A0poLGs" height="244" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwlzTEOwyAMAMCvWDwAR2pHwj86UjAFCWJkjKL-PgPjTedqltAJpsTTIObVWquZQgyJ-t_2sLRGe5FiZun4NnDXpOU0r-MwUKj-im54N_yHl8BX-J4kkJgmXKww1xgsCrua1uHwDrf8A0poLGs" height="327" style=""></iframe>
