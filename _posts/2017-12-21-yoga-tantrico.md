@@ -6,16 +6,18 @@ description: >-
   mais ancestral do que o Yôga Clássico. É a sistematização da linhagem
   Dakshinacharatántrika-Niríshwarasámkhya Yôga, pré-clássica, pré-ariana,
   pré-vêdica e proto-histórica.
-dateModified: '2017-12-21T20:28:04.533Z'
-datePublished: '2017-12-21T20:28:06.278Z'
+dateModified: '2017-12-21T20:28:39.892Z'
+datePublished: '2017-12-21T20:28:40.812Z'
 title: Yôga Tântrico
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2017-12-21-yoga-tantrico.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-12-21T20:11:03.974Z'
-_type: Blurb
+url: yoga-tantrico/index.html
+_type: Article
 
 ---
 # Yôga Tântrico
