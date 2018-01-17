@@ -6,8 +6,8 @@ description: >-
   mais ancestral do que o Yôga Clássico. É a sistematização da linhagem
   Dakshinacharatántrika-Niríshwarasámkhya Yôga, pré-clássica, pré-ariana,
   pré-vêdica e proto-histórica.
-dateModified: '2018-01-17T20:56:52.890Z'
-datePublished: '2018-01-17T20:56:53.633Z'
+dateModified: '2018-01-17T20:58:02.480Z'
+datePublished: '2018-01-17T20:58:03.196Z'
 title: Yôga Tântrico
 author: []
 publisher: {}
@@ -76,8 +76,7 @@ Estes efeitos, e muitos outros são simples conseqüência das técnicas. Ocorre
 **Turmas**
 
 Terça e Quinta 7:30 às 8:30  
-Terça e Quinta 19:30 as 20:30  
-Aula experimental quarta 7:30
+Terça e Quinta 19:30 as 20:30
 
 **Agende uma aula experimental**
 
