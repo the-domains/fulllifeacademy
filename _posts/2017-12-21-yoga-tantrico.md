@@ -6,8 +6,8 @@ description: >-
   mais ancestral do que o Yôga Clássico. É a sistematização da linhagem
   Dakshinacharatántrika-Niríshwarasámkhya Yôga, pré-clássica, pré-ariana,
   pré-vêdica e proto-histórica.
-dateModified: '2017-12-21T20:32:54.106Z'
-datePublished: '2017-12-21T20:32:55.426Z'
+dateModified: '2018-01-17T20:56:52.890Z'
+datePublished: '2018-01-17T20:56:53.633Z'
 title: Yôga Tântrico
 author: []
 publisher: {}
@@ -21,7 +21,7 @@ _type: Article
 
 ---
 # Yôga Tântrico
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/45d6f8cb-70c1-4882-ba22-aacb1e60dc3a.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f1477f2e-8903-45c4-a098-e8af9662af49.jpg)
 
 SwáSthya Yôga é o nome da sistematização do Yôga Antigo, método que alcançou grande notabilidade, pois representa o reconhecimento de uma estirpe muito mais ancestral do que o Yôga Clássico. É a sistematização da linhagem Dakshinacharatántrika-Niríshwarasámkhya Yôga, pré-clássica, pré-ariana, pré-vêdica e proto-histórica.
 
@@ -66,12 +66,17 @@ Os **mantras** ajudam a obter o aquietamento das ondas mentais para conquistar u
 
 **Samyama** (concentração, meditação e outros estados mais profundos) proporciona a megalucidez e o autoconhecimento.
 
-Estes efeitos, e muitos outros são simples conseqüência das técnicas. Ocorrem como resultado natural de estarmos exercitando uma filosofia de vida saudável. Se aprendermos a respirar melhor, descontrair melhor, dormir melhor, comer melhor, excretar melhor, fazer exercícios moderados e manifestar uma sexualidade melhor, os frutos só podem ser o aumento da saúde.  
-**Aulas regulares de yôga**1 aula por semana R$150,00  
-2 aulas por semana R$215,00  
-3 aulas por semana R$250,00
+Estes efeitos, e muitos outros são simples conseqüência das técnicas. Ocorrem como resultado natural de estarmos exercitando uma filosofia de vida saudável. Se aprendermos a respirar melhor, descontrair melhor, dormir melhor, comer melhor, excretar melhor, fazer exercícios moderados e manifestar uma sexualidade melhor, os frutos só podem ser o aumento da saúde.
 
-**Turmas**Terça e Quinta 7:30 às 8:30  
+**Aulas regulares de yôga**
+
+1 aula por semana R$150,00  
+2 aulas por semana R$250,00
+
+**Turmas**
+
+Terça e Quinta 7:30 às 8:30  
+Terça e Quinta 19:30 as 20:30  
 Aula experimental quarta 7:30
 
 **Agende uma aula experimental**
